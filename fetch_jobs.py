@@ -219,8 +219,13 @@ def norm(s):
 
 
 def job_id(company, title, location):
-    city = norm(location.split(",")[0]) if location else ""
-    return hashlib.sha1(f"{norm(company)}|{norm(title)}|{city}".encode()).hexdigest()[:12]
+    c = re.sub(r"\b(co|inc|ltd|llc|pvt|limited|corp|corporation|group|india|private)\b", " ", norm(company))
+    c = " ".join(c.split())
+    if re.search(r"bengaluru|bangalore|\bka\b", location.lower()):
+        city = "bengaluru"
+    else:
+        city = norm(location.split(",")[0]) if location else ""
+    return hashlib.sha1(f"{c}|{norm(title)}|{city}".encode()).hexdigest()[:12]
 
 
 def score_job(j, cfg, strong, good, senior, prio, locs, first_seen):
