@@ -1,64 +1,41 @@
-# ---- What to look for (edit freely) ----
-role_keywords:   # matched against the JOB TITLE, whole-word, case-insensitive
-  - o9
-  - merchandise planning
-  - merchandise financial planning
-  - assortment planning
-  - size profiler
-  - product analyst
-  - associate product manager
-  - product consultant
-  - solutions consultant
-  - solution consultant
-  - implementation consultant
-  - business systems analyst
-  - technical business analyst
-  - solution engineer
-  - product operations analyst
-  - digital transformation consultant
-  - functional consultant
-  - enterprise solutions consultant
-  - business solutions consultant
-  - retail planning consultant
-  - merchandise planning consultant
-  - assortment planning consultant
-  - merchandise financial planning consultant
-  - retail solutions consultant
-  - merchandising systems consultant
-  - supply chain planning consultant
+# ===== EDIT ONLY THIS FILE to change what you see =====
 
-exclude_keywords:   # any match in title => skipped
-  - intern
-  - store associate
-  - retail assistant
+# Search phrases sent to LinkedIn / Indeed / Naukri / Glassdoor / Google
+searches:
+  - Assortment Planning
+  - Merchandise Financial Planning
+  - o9 Solutions consultant
+  - Retail Planning consultant
+  - Demand Planning
+  - Supply Chain Planning consultant
+search_location: "Bengaluru, India"
+results_per_search: 25        # per site per phrase
+max_age_days: 14              # ignore jobs posted longer ago
 
-locations:   # substring match on the job's location text
-  - Australia
-  - India
-  - Remote
-  - Pune
-  - Nagpur
-  - Bangalore
-  - Bengaluru
-  - Hyderabad
-  - Mumbai
+# A job must contain one of these in its TITLE to be kept (regex, case-insensitive)
+strong_keywords: ["assortment", "merchandis", "\\bmfp\\b", "\\bo9\\b", "retail planning", "category planning", "allocation"]
+good_keywords:   ["demand planning", "supply chain planning", "\\bplanning\\b", "planner", "forecast", "inventory", "replenishment", "merchandise", "functional consultant", "solution consultant", "implementation consultant"]
 
-# ---- Companies ----
-# board_url = the ATS job-board URL (Workday / Greenhouse / Lever / Ashby).
-# If unknown, leave board_url empty, fill careers_url, then run the workflow in "detect" mode.
+# Titles containing these are dropped
+exclude_title: ["intern", "trainee", "apprentice", "\\bdirector\\b", "\\bvp\\b", "vice president", "\\bhead of\\b", "\\bchief\\b"]
+
+# Preferred seniority words (small score bonus)
+seniority_good: ["senior", "lead", "consultant", "manager", "specialist", "associate", "analyst"]
+
+# Locations kept (regex). Jobs with no location are kept too.
+locations: ["bengaluru", "bangalore", "remote", "hybrid", "india"]
+
+# Companies you care about: get a score boost (any source)
+priority_companies: ["o9", "ralph lauren", "kinaxis", "blue yonder", "anaplan", "oracle", "sap", "accenture", "deloitte", "pwc", "ey", "kpmg", "mckinsey", "bcg", "bain", "walmart", "target", "nike", "adidas", "levi", "h&m", "inditex", "lululemon", "tata", "reliance", "myntra", "flipkart", "amazon"]
+
+# Which job boards to scrape (each one is optional; a blocked one just returns nothing)
+boards: [linkedin, indeed, naukri, glassdoor, google]
+
+# Direct company career pages (Greenhouse / Lever / Ashby / Workday links).
+# Wrong or dead links never break the run; they only show a warning on the page.
+# Add more by pasting the company's careers-board URL.
 companies:
-  - name: Nike
-    board_url: https://nike.wd1.myworkdayjobs.com/nke     # UNVERIFIED guess, check with detect
-    careers_url: https://careers.nike.com
-  - name: Ralph Lauren
-    board_url: ""
-    careers_url: https://careers.ralphlauren.com          # UNVERIFIED guess
-  - name: Blue Yonder
-    board_url: ""
-    careers_url: https://careers.blueyonder.com           # UNVERIFIED guess
-  - name: Impact Analytics
-    board_url: ""
-    careers_url: https://www.impactanalytics.co/careers   # UNVERIFIED guess
-  - name: o9 Solutions
-    board_url: ""
-    careers_url: https://o9solutions.com/careers          # UNVERIFIED guess
+  - {name: "Anaplan", url: "https://boards.greenhouse.io/anaplan"}
+  # - {name: "Some Lever Co",      url: "https://jobs.lever.co/company"}
+  # - {name: "Some Ashby Co",      url: "https://jobs.ashbyhq.com/company"}
+  # - {name: "Some Workday Co",    url: "https://company.wd5.myworkdayjobs.com/en-US/Careers"}

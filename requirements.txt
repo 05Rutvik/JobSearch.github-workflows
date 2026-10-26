@@ -1,2 +1,4 @@
-requests>=2.31
-pyyaml>=6.0
+python-jobspy>=1.1.80
+pyyaml
+requests
+pandas

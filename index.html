@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My Daily Jobs</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--tx:#1b1f24;--mut:#6a737d;--bd:#e1e4e8;--ac:#2563eb;--ok:#15803d;--warn:#b45309}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1318;--card:#171c23;--tx:#e6e9ed;--mut:#8b95a1;--bd:#2a313b;--ac:#6ea0ff;--ok:#4ade80;--warn:#fbbf24}}
+*{box-sizing:border-box}
+body{margin:0;font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--tx)}
+header{padding:18px 16px 8px;max-width:980px;margin:0 auto}
+h1{margin:0;font-size:22px}
+.sub{color:var(--mut);font-size:13px;margin-top:2px}
+.bar{max-width:980px;margin:0 auto;padding:8px 16px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.bar input[type=search],.bar select{padding:8px 10px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--tx);font:inherit}
+.bar input[type=search]{flex:1 1 200px;min-width:150px}
+.bar label{display:flex;gap:5px;align-items:center;font-size:14px;color:var(--mut)}
+.seg{display:flex;border:1px solid var(--bd);border-radius:8px;overflow:hidden}
+.seg button{border:0;background:var(--card);color:var(--tx);padding:8px 12px;font:inherit;cursor:pointer}
+.seg button.on{background:var(--ac);color:#fff}
+main{max-width:980px;margin:0 auto;padding:4px 16px 40px}
+.count{color:var(--mut);font-size:13px;margin:8px 2px}
+.job{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:12px 14px;margin:8px 0;display:flex;gap:12px;align-items:flex-start}
+.sc{min-width:42px;text-align:center;font-weight:700;color:var(--ac);font-size:18px}
+.sc small{display:block;font-weight:400;color:var(--mut);font-size:10px}
+.body{flex:1;min-width:0}
+.t{font-weight:600;font-size:16px;color:var(--tx);text-decoration:none;word-break:break-word}
+.t:hover{color:var(--ac);text-decoration:underline}
+.m{color:var(--mut);font-size:13px;margin-top:3px}
+.tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:99px;border:1px solid var(--bd);margin-right:5px;color:var(--mut)}
+.tag.new{background:var(--ok);color:#fff;border-color:var(--ok)}
+.x{border:0;background:none;color:var(--mut);cursor:pointer;font-size:18px;line-height:1}
+.empty{text-align:center;color:var(--mut);padding:40px 0}
+details{max-width:980px;margin:0 auto;padding:0 16px 30px;color:var(--mut);font-size:13px}
+.bad{color:var(--warn)}.good{color:var(--ok)}
+</style>
+</head>
+<body>
+<header>
+  <h1>My Daily Jobs</h1>
+  <div class="sub" id="sub">Loading…</div>
+</header>
+<div class="bar">
+  <div class="seg" id="mode"><button data-m="20" class="on">Top 20</button><button data-m="all">All</button></div>
+  <input type="search" id="q" placeholder="Search title / company…">
+  <select id="src"><option value="">All sources</option></select>
+  <select id="co"><option value="">All companies</option></select>
+  <select id="loc"><option value="">All locations</option><option value="blr">Bengaluru</option><option value="remote">Remote</option><option value="other">Other</option></select>
+  <select id="age"><option value="0">Any date</option><option value="1">Today / yesterday</option><option value="3">Last 3 days</option><option value="7">Last 7 days</option></select>
+  <label><input type="checkbox" id="newonly"> New today</label>
+  <select id="sort"><option value="score">Best match</option><option value="date">Newest</option></select>
+  <button id="reset" class="seg" style="padding:8px 12px;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:8px;cursor:pointer">Reset</button>
+</div>
+<main>
+  <div class="count" id="count"></div>
+  <div id="list"></div>
+</main>
+<details id="stat"><summary>Source status</summary><div id="statbody"></div></details>
+<script>
+"use strict";
+var DATA = {jobs: [], status: []}, HIDDEN = {};
+var $ = function(id){ return document.getElementById(id); };
+try { HIDDEN = JSON.parse(localStorage.getItem("hiddenJobs") || "{}"); } catch (e) { HIDDEN = {}; }
+
+function saveHidden(){ try { localStorage.setItem("hiddenJobs", JSON.stringify(HIDDEN)); } catch (e) {} }
+function isBlr(j){ return /bengaluru|bangalore/i.test(j.location || ""); }
+function isRemote(j){ return !!j.remote || /remote/i.test(j.location || ""); }
+function daysAgo(j){
+  var ref = j.posted || j.first_seen; if (!ref) return 99;
+  var d = new Date(ref + "T00:00:00Z"), t = new Date((DATA.today || new Date().toISOString().slice(0,10)) + "T00:00:00Z");
+  return Math.max(0, Math.round((t - d) / 86400000));
+}
+function fillSelect(sel, values){
+  values.forEach(function(v){ var o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o); });
+}
+function init(){
+  var jobs = DATA.jobs || [];
+  var srcs = {}, cos = {};
+  jobs.forEach(function(j){ (j.sources || [j.source]).forEach(function(s){ srcs[s] = 1; }); if (j.company) cos[j.company] = 1; });
+  fillSelect($("src"), Object.keys(srcs).sort());
+  fillSelect($("co"), Object.keys(cos).sort(function(a,b){ return a.toLowerCase() < b.toLowerCase() ? -1 : 1; }));
+  var newN = jobs.filter(function(j){ return j.new; }).length;
+  $("sub").textContent = "Updated " + (DATA.updated || "never") + " · " + jobs.length + " jobs tracked · " + newN + " new today";
+  var sb = $("statbody"); sb.textContent = "";
+  (DATA.status || []).forEach(function(s){
+    var d = document.createElement("div");
+    d.className = s.ok ? "good" : "bad";
+    d.textContent = (s.ok ? "✓ " : "✗ ") + s.source + ": " + s.count + " jobs" + (s.error ? " — " + s.error : "");
+    sb.appendChild(d);
+  });
+  render();
+}
+function filtered(){
+  var q = $("q").value.trim().toLowerCase(), src = $("src").value, co = $("co").value, loc = $("loc").value,
+      age = +$("age").value, nw = $("newonly").checked, sort = $("sort").value;
+  var r = (DATA.jobs || []).filter(function(j){
+    if (HIDDEN[j.id]) return false;
+    if (q && (j.title + " " + j.company + " " + j.location).toLowerCase().indexOf(q) < 0) return false;
+    if (src && (j.sources || [j.source]).indexOf(src) < 0) return false;
+    if (co && j.company !== co) return false;
+    if (loc === "blr" && !isBlr(j)) return false;
+    if (loc === "remote" && !isRemote(j)) return false;
+    if (loc === "other" && (isBlr(j) || isRemote(j))) return false;
+    if (age && daysAgo(j) > age) return false;
+    if (nw && !j.new) return false;
+    return true;
+  });
+  r.sort(sort === "date"
+    ? function(a,b){ return daysAgo(a) - daysAgo(b) || b.score - a.score; }
+    : function(a,b){ return (b.score + (b.new?5:0)) - (a.score + (a.new?5:0)); });
+  return r;
+}
+function el(tag, cls, txt){ var e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; }
+function render(){
+  var all = filtered(), top = document.querySelector("#mode .on").dataset.m === "20";
+  var shown = top ? all.slice(0, 20) : all;
+  $("count").textContent = "Showing " + shown.length + " of " + all.length + " matching jobs";
+  var list = $("list"); list.textContent = "";
+  if (!shown.length){ list.appendChild(el("div", "empty", (DATA.jobs || []).length ? "No jobs match these filters." : "No jobs yet. Run the workflow once from the Actions tab.")); return; }
+  shown.forEach(function(j){
+    var c = el("div", "job");
+    var sc = el("div", "sc", String(j.score)); sc.appendChild(el("small", null, "match")); c.appendChild(sc);
+    var b = el("div", "body");
+    var a = el("a", "t", j.title); a.href = /^https?:\/\//i.test(j.url) ? j.url : "#"; a.target = "_blank"; a.rel = "noopener noreferrer"; b.appendChild(a);
+    var m = el("div", "m");
+    if (j.new) m.appendChild(el("span", "tag new", "NEW"));
+    m.appendChild(document.createTextNode((j.company || "Unknown company") + (j.location ? " · " + j.location : "") + " · "));
+    var d = daysAgo(j); m.appendChild(document.createTextNode(j.posted ? (d === 0 ? "posted today" : d + "d ago") : "first seen " + (d === 0 ? "today" : d + "d ago")));
+    b.appendChild(m);
+    var tg = el("div", "m"); (j.sources || [j.source]).forEach(function(s){ tg.appendChild(el("span", "tag", s)); });
+    if (isRemote(j)) tg.appendChild(el("span", "tag", "remote"));
+    b.appendChild(tg); c.appendChild(b);
+    var x = el("button", "x", "✕"); x.title = "Hide this job";
+    x.onclick = function(){ HIDDEN[j.id] = 1; saveHidden(); render(); };
+    c.appendChild(x); list.appendChild(c);
+  });
+}
+["q","src","co","loc","age","newonly","sort"].forEach(function(id){ $(id).addEventListener(id === "q" ? "input" : "change", render); });
+document.querySelectorAll("#mode button").forEach(function(b){
+  b.addEventListener("click", function(){ document.querySelectorAll("#mode button").forEach(function(x){ x.classList.remove("on"); }); b.classList.add("on"); render(); });
+});
+$("reset").addEventListener("click", function(){
+  ["q","src","co","loc","age","sort"].forEach(function(id){ $(id).selectedIndex = 0; if (id === "q") $(id).value = ""; });
+  $("newonly").checked = false; HIDDEN = {}; saveHidden(); render();
+});
+fetch("jobs.json?" + Date.now()).then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(function(d){ DATA = d; init(); })
+  .catch(function(e){ $("sub").textContent = "Could not load jobs.json (" + e.message + "). If opened as a local file, use the website URL instead."; });
+</script>
+</body>
+</html>
