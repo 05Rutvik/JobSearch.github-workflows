@@ -13,11 +13,9 @@ results_per_search: 25        # per site per phrase
 max_age_days: 14              # ignore jobs posted longer ago
 
 # A job must contain one of these in its TITLE to be kept (regex, case-insensitive)
-strong_keywords: ["assortment", "merchandis", "\\bmfp\\b", "\\bo9\\b", "retail planning", "category planning", "allocation"]
-good_keywords:   ["demand planning", "supply chain planning", "\\bplanning\\b", "planner", "forecast", "inventory", "replenishment", "merchandise", "functional consultant", "solution consultant", "implementation consultant"]
-
-# Titles containing these are dropped
-exclude_title: ["intern", "trainee", "apprentice", "\\bdirector\\b", "\\bvp\\b", "vice president", "\\bhead of\\b", "\\bchief\\b"]
+strong_keywords: ["assortment", "merchandis\\w* (financial )?plan", "\\bmfp\\b", "\\bo9\\b", "retail planning", "category planning", "allocation planning"]
+good_keywords:   ["demand planning", "supply chain planning", "\\bplanning\\b", "planner", "forecast", "inventory", "replenishment", "functional consultant", "solution consultant", "implementation consultant"]
+exclude_title: ["intern", "trainee", "apprentice", "\\bdirector\\b", "\\bvp\\b", "vice president", "\\bhead of\\b", "\\bchief\\b", "visual merchandis", "digital merchandis", "\\bbuying\\b", "\\bbuyer\\b", "store manager"]
 
 # Preferred seniority words (small score bonus)
 seniority_good: ["senior", "lead", "consultant", "manager", "specialist", "associate", "analyst"]
