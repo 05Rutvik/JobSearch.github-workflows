@@ -1,0 +1,64 @@
+# ---- What to look for (edit freely) ----
+role_keywords:   # matched against the JOB TITLE, whole-word, case-insensitive
+  - o9
+  - merchandise planning
+  - merchandise financial planning
+  - assortment planning
+  - size profiler
+  - product analyst
+  - associate product manager
+  - product consultant
+  - solutions consultant
+  - solution consultant
+  - implementation consultant
+  - business systems analyst
+  - technical business analyst
+  - solution engineer
+  - product operations analyst
+  - digital transformation consultant
+  - functional consultant
+  - enterprise solutions consultant
+  - business solutions consultant
+  - retail planning consultant
+  - merchandise planning consultant
+  - assortment planning consultant
+  - merchandise financial planning consultant
+  - retail solutions consultant
+  - merchandising systems consultant
+  - supply chain planning consultant
+
+exclude_keywords:   # any match in title => skipped
+  - intern
+  - store associate
+  - retail assistant
+
+locations:   # substring match on the job's location text
+  - Australia
+  - India
+  - Remote
+  - Pune
+  - Nagpur
+  - Bangalore
+  - Bengaluru
+  - Hyderabad
+  - Mumbai
+
+# ---- Companies ----
+# board_url = the ATS job-board URL (Workday / Greenhouse / Lever / Ashby).
+# If unknown, leave board_url empty, fill careers_url, then run the workflow in "detect" mode.
+companies:
+  - name: Nike
+    board_url: https://nike.wd1.myworkdayjobs.com/nke     # UNVERIFIED guess, check with detect
+    careers_url: https://careers.nike.com
+  - name: Ralph Lauren
+    board_url: ""
+    careers_url: https://careers.ralphlauren.com          # UNVERIFIED guess
+  - name: Blue Yonder
+    board_url: ""
+    careers_url: https://careers.blueyonder.com           # UNVERIFIED guess
+  - name: Impact Analytics
+    board_url: ""
+    careers_url: https://www.impactanalytics.co/careers   # UNVERIFIED guess
+  - name: o9 Solutions
+    board_url: ""
+    careers_url: https://o9solutions.com/careers          # UNVERIFIED guess
