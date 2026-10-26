@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-26 23:51 IST",
+ "updated": "2026-10-26 23:58 IST",
  "today": "2026-10-26",
- "total": 80,
+ "total": 87,
  "status": [
   {
    "source": "Anaplan",
    "ok": true,
-   "count": 148,
+   "count": 150,
    "error": ""
   },
   {
    "source": "linkedin",
    "ok": true,
-   "count": 115,
+   "count": 125,
    "error": ""
   },
   {
@@ -331,6 +331,23 @@
    "new": true
   },
   {
+   "id": "0a4371235b3e",
+   "title": "Associate - Planning",
+   "company": "Myntra",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4478119032",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-13",
+   "remote": false,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "score": 60,
+   "new": true
+  },
+  {
    "id": "74a9debf5784",
    "title": "Fashion Buying and Merchandising (E-Commerce/ Fashion design)",
    "company": "PeopleGene",
@@ -552,6 +569,23 @@
    "new": true
   },
   {
+   "id": "5a8c0d595cbd",
+   "title": "Implementation Consultant and Integration Developer",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4473858637",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-24",
+   "remote": false,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "score": 58,
+   "new": true
+  },
+  {
    "id": "757a7aa3b0b6",
    "title": "Sr Staff, Supply planning",
    "company": "Enphase Energy",
@@ -608,6 +642,23 @@
    "company": "TecQubes Technologies",
    "location": "Bengaluru, Karnataka, India",
    "url": "https://www.linkedin.com/jobs/view/4480264898",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-19",
+   "remote": false,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "score": 53,
+   "new": true
+  },
+  {
+   "id": "0e4866c34506",
+   "title": "Manager, Forecasting",
+   "company": "Takeda",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4478606311",
    "source": "linkedin",
    "sources": [
     "linkedin"
@@ -790,6 +841,23 @@
    "new": true
   },
   {
+   "id": "0b3e786fe2b2",
+   "title": "Functional Consultant - RGM_CP(D12)",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4471437952",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-15",
+   "remote": false,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "score": 48,
+   "new": true
+  },
+  {
    "id": "7925523ed3f9",
    "title": "Senior Analyst - Supply and Demand Planning",
    "company": "Unisys",
@@ -812,6 +880,23 @@
    "company": "Page Industries Ltd",
    "location": "Greater Bengaluru Area",
    "url": "https://www.linkedin.com/jobs/view/4480305667",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-16",
+   "remote": false,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "368132d48e91",
+   "title": "Materials Planning Manager",
+   "company": "Cisco",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4480516314",
    "source": "linkedin",
    "sources": [
     "linkedin"
@@ -863,6 +948,23 @@
    "company": "Lenovo",
    "location": "Bangalore Urban, Karnataka, India",
    "url": "https://www.linkedin.com/jobs/view/4462300381",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-18",
+   "remote": false,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "c9e21e630fd9",
+   "title": "Manager - Demand Planner",
+   "company": "DIAGEO India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4445205282",
    "source": "linkedin",
    "sources": [
     "linkedin"
@@ -940,6 +1042,23 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-26",
    "score": 45,
+   "new": true
+  },
+  {
+   "id": "ece88c0d3dd9",
+   "title": "Primary Planner",
+   "company": "Applied Materials India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4464298072",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-12",
+   "remote": false,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "score": 40,
    "new": true
   },
   {
