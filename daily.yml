@@ -35,8 +35,12 @@ jobs:
         run: |
           git config user.name "jobs-bot"
           git config user.email "jobs-bot@users.noreply.github.com"
+          cp jobs.json /tmp/jobs.json
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/jobs.json jobs.json
           git add jobs.json
-          git diff --cached --quiet || (git commit -m "jobs update $(date -u +%F)" && git pull --rebase -q && git push)
+          git diff --cached --quiet || (git commit -m "jobs update $(date -u +%F)" && git push)
       - name: Stage site
         run: mkdir _site && cp index.html jobs.json _site/
       - uses: actions/upload-pages-artifact@v3
