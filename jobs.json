@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-27 00:13 IST",
+ "updated": "2026-10-27 07:28 IST",
  "today": "2026-10-27",
- "total": 43,
+ "total": 57,
  "status": [
   {
    "source": "Anaplan",
    "ok": true,
-   "count": 152,
+   "count": 153,
    "error": ""
   },
   {
    "source": "linkedin",
    "ok": true,
-   "count": 120,
+   "count": 145,
    "error": ""
   },
   {
@@ -46,7 +46,7 @@
    "title": "Associate Planner PIM",
    "company": "Target",
    "location": "Bengaluru East, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4482954021",
+   "url": "https://www.linkedin.com/jobs/view/4483757734",
    "source": "linkedin",
    "sources": [
     "linkedin"
@@ -93,6 +93,23 @@
    "new": true
   },
   {
+   "id": "4614578c7a8a",
+   "title": "Manager – Kinaxis Maestro - Integrated Planning",
+   "company": "PwC Acceleration Center India",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4472603558",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-22",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 65,
+   "new": true
+  },
+  {
    "id": "21450ba92189",
    "title": "Planning Lead",
    "company": "ZEISS India",
@@ -103,6 +120,57 @@
     "linkedin"
    ],
    "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "89d3d65d0119",
+   "title": "SCM FUNCTIONAL CONSULTANT (ORACLE FUSION)",
+   "company": "EduRun Group",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4481443436",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "e395d5ebb05d",
+   "title": "Strategy & Planning Manager",
+   "company": "Cisco",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4475559311",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "574cdd22c7fa",
+   "title": "Senior Functional Consultant - Oracle Fusion Financials",
+   "company": "Epam Systems",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-senior-functional-consultant-oracle-fusion-financials-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-121026010502",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
@@ -183,7 +251,7 @@
    "title": "Implementation Consultant and Integration Developer",
    "company": "Infosys",
    "location": "Bengaluru East, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4473858637",
+   "url": "https://www.linkedin.com/jobs/view/4473854834",
    "source": "linkedin",
    "sources": [
     "linkedin"
@@ -247,6 +315,23 @@
    "new": true
   },
   {
+   "id": "05f9bc6725a8",
+   "title": "IBP Supply Planning Data Scientist",
+   "company": "Agilent Technologies",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483763037",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 55,
+   "new": true
+  },
+  {
    "id": "5fc27f511a25",
    "title": "Financial Planning and Analysis Manager",
    "company": "Decorpot",
@@ -264,6 +349,23 @@
    "new": true
   },
   {
+   "id": "4fdcb85d870b",
+   "title": "Financial Planning and Analysis - Assistant Manager",
+   "company": "Westbury Sportswear",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4481324140",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-22",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 53,
+   "new": true
+  },
+  {
    "id": "1f79ba1e3123",
    "title": "Demand Planning Manager",
    "company": "PinnacleU",
@@ -273,6 +375,23 @@
    "sources": [
     "linkedin",
     "indeed"
+   ],
+   "posted": "2026-10-23",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 53,
+   "new": true
+  },
+  {
+   "id": "6e2a26d6348a",
+   "title": "Oracle Cloud Planning Consultant",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4472550835",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
    ],
    "posted": "2026-10-23",
    "remote": false,
@@ -326,6 +445,23 @@
     "linkedin"
    ],
    "posted": "2026-10-13",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "fd90710c5cdc",
+   "title": "Manager- Planning and Performance",
+   "company": "Swiggy",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4478401869",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-14",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
@@ -420,6 +556,23 @@
    "new": true
   },
   {
+   "id": "eec3e1d5394a",
+   "title": "Lead - Supply Planning",
+   "company": "Page Industries Ltd",
+   "location": "Greater Bengaluru Area",
+   "url": "https://www.linkedin.com/jobs/view/4480305667",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-16",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 48,
+   "new": true
+  },
+  {
    "id": "368132d48e91",
    "title": "Materials Planning Manager",
    "company": "Cisco",
@@ -505,6 +658,23 @@
    "new": true
   },
   {
+   "id": "8dd950545572",
+   "title": "Functional Consultant – Demand Planning (Blue Yonder)",
+   "company": "TecQubes Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4480264898",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-19",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 48,
+   "new": true
+  },
+  {
    "id": "0e4866c34506",
    "title": "Manager, Forecasting",
    "company": "Takeda",
@@ -540,6 +710,23 @@
    "new": true
   },
   {
+   "id": "5112091f60a7",
+   "title": "Financial Planning & Analysis || Gurgaon || Walk-in || AM / Manager",
+   "company": "Imaginators Try Going Beyond",
+   "location": "Gurugram, Delhi / NCR, India",
+   "url": "https://www.naukri.com/job-listings-financial-planning-analysis-gurgaon-walk-in-am-manager-imaginators-try-going-beyond-gurugram-delhi-ncr-7-to-12-years-200826029334",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 48,
+   "new": true
+  },
+  {
    "id": "3eb5491699a3",
    "title": "Inventory Planner",
    "company": "Curefit",
@@ -550,6 +737,40 @@
     "linkedin"
    ],
    "posted": "2026-10-13",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "097edfb0a79e",
+   "title": "Kinaxis Solution Architect, Supply Chain Planning",
+   "company": "Allegro MicroSystems",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4479052608",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-13",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "7189e8e8cf39",
+   "title": "Supply Chain Performance & Inventory",
+   "company": "TE Connectivity",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4479811479",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-15",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
@@ -669,6 +890,23 @@
     "indeed"
    ],
    "posted": "2026-10-15",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 33,
+   "new": true
+  },
+  {
+   "id": "0088e7f53452",
+   "title": "Senior Occupancy Planner",
+   "company": "JLL",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=102e442715e18596",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-10-16",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
