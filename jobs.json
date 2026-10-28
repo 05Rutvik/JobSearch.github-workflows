@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27 23:24 IST",
- "today": "2026-10-27",
- "total": 91,
+ "updated": "2026-10-28 14:26 IST",
+ "today": "2026-10-28",
+ "total": 106,
  "status": [
   {
    "source": "Anaplan",
@@ -24,7 +24,7 @@
   {
    "source": "naukri",
    "ok": true,
-   "count": 104,
+   "count": 103,
    "error": ""
   },
   {
@@ -42,41 +42,6 @@
  ],
  "jobs": [
   {
-   "id": "8c54ba00bea4",
-   "title": "Associate Planner PIM",
-   "company": "Target",
-   "location": "Bengaluru East, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4483757734",
-   "source": "linkedin",
-   "sources": [
-    "linkedin",
-    "indeed"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 75,
-   "new": true
-  },
-  {
-   "id": "180526920b7e",
-   "title": "Manager-P&L end To end against budgets & Forecasts(9-14yrs)",
-   "company": "EY",
-   "location": "Bengaluru, India",
-   "url": "https://www.naukri.com/job-listings-manager-p-l-end-to-end-against-budgets-forecasts-9-14yrs-ey-bengaluru-9-to-14-years-261026029978",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 75,
-   "new": true
-  },
-  {
    "id": "52ad5d4d9115",
    "title": "Associate Planner",
    "company": "Target",
@@ -89,9 +54,9 @@
    "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 75,
-   "new": true
+   "new": false
   },
   {
    "id": "9a746b289f02",
@@ -108,6 +73,23 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 75,
+   "new": false
+  },
+  {
+   "id": "ca321564e6cf",
+   "title": "Demand Planner",
+   "company": "Target",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-demand-planner-target-bengaluru-2-to-4-years-281026003126",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 67,
    "new": true
   },
   {
@@ -125,7 +107,42 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 70,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "8c54ba00bea4",
+   "title": "Associate Planner PIM",
+   "company": "Target",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483757734",
+   "source": "linkedin",
+   "sources": [
+    "linkedin",
+    "indeed"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 70,
+   "new": false
+  },
+  {
+   "id": "180526920b7e",
+   "title": "Manager-P&L end To end against budgets & Forecasts(9-14yrs)",
+   "company": "EY",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-manager-p-l-end-to-end-against-budgets-forecasts-9-14yrs-ey-bengaluru-9-to-14-years-261026029978",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 70,
+   "new": false
   },
   {
    "id": "b5988415483b",
@@ -142,6 +159,40 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 68,
+   "new": false
+  },
+  {
+   "id": "c05013609445",
+   "title": "Financial Planning Analyst",
+   "company": "Bighaat Agro",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-financial-planning-analyst-bighaat-agro-bengaluru-5-to-8-years-281026006944",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "84f891e96bf3",
+   "title": "Principal Consultant - Techno-Functional Consultant, FP&A - 10-14 Year",
+   "company": "Crescendo Global Leadership Hiring India",
+   "location": "Bengaluru, Pune, India",
+   "url": "https://www.naukri.com/job-listings-principal-consultant-techno-functional-consultant-fp-a-10-14-year-crescendo-global-leadership-hiring-india-pune-bengaluru-9-to-14-years-281026007227",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 63,
    "new": true
   },
   {
@@ -157,60 +208,9 @@
    "posted": "2026-10-22",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 65,
-   "new": true
-  },
-  {
-   "id": "21450ba92189",
-   "title": "Planning Lead",
-   "company": "ZEISS India",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4482922344",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 63,
-   "new": true
-  },
-  {
-   "id": "89d3d65d0119",
-   "title": "SCM FUNCTIONAL CONSULTANT (ORACLE FUSION)",
-   "company": "EduRun Group",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4481443436",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 63,
-   "new": true
-  },
-  {
-   "id": "e395d5ebb05d",
-   "title": "Strategy & Planning Manager",
-   "company": "Cisco",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4475559311",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "8937ad575faf",
@@ -225,9 +225,9 @@
    "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "415e8aef6308",
@@ -244,7 +244,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "7222c8fee489",
@@ -261,7 +261,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "6c5f6f6e1c1d",
@@ -276,9 +276,9 @@
    "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "1660cd53f463",
@@ -293,9 +293,9 @@
    "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "574cdd22c7fa",
@@ -312,7 +312,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "a180a8009d56",
@@ -327,9 +327,9 @@
    "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "775bd17734ec",
@@ -346,7 +346,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "f36f4914ca5b",
@@ -363,7 +363,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "94bee394258d",
@@ -378,9 +378,9 @@
    "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 63,
-   "new": true
+   "new": false
   },
   {
    "id": "9ba9471a3f32",
@@ -395,9 +395,9 @@
    "posted": "2026-10-14",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 60,
-   "new": true
+   "new": false
   },
   {
    "id": "8f6ec10b8beb",
@@ -412,8 +412,93 @@
    "posted": "2026-10-16",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 60,
+   "new": false
+  },
+  {
+   "id": "88338007c1a9",
+   "title": "Mgr. Supply Chain Planning & Logistics",
+   "company": "Intuitive",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4484428326",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 55,
+   "new": true
+  },
+  {
+   "id": "21450ba92189",
+   "title": "Planning Lead",
+   "company": "ZEISS India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4482922344",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 58,
+   "new": false
+  },
+  {
+   "id": "89d3d65d0119",
+   "title": "SCM FUNCTIONAL CONSULTANT (ORACLE FUSION)",
+   "company": "EduRun Group",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4481443436",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 58,
+   "new": false
+  },
+  {
+   "id": "e395d5ebb05d",
+   "title": "Strategy & Planning Manager",
+   "company": "Cisco",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4475559311",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 58,
+   "new": false
+  },
+  {
+   "id": "4cb489b82ffd",
+   "title": "Walk-in || Financial Planning and Analysis",
+   "company": "Accenture",
+   "location": "Gurugram, India",
+   "url": "https://www.naukri.com/job-listings-walk-in-financial-planning-and-analysis-accenture-gurugram-5-to-10-years-281026009395",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 52,
    "new": true
   },
   {
@@ -429,94 +514,9 @@
    "posted": "2026-10-26",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 60,
-   "new": true
-  },
-  {
-   "id": "9e8acbbf8cc0",
-   "title": "Functional Consultant - Supply Planning (D214)",
-   "company": "algoleap",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4445099293",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-24",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 58,
-   "new": true
-  },
-  {
-   "id": "03c9237e824d",
-   "title": "Implementation Consultant and Integration Developer",
-   "company": "Infosys",
-   "location": "Bengaluru East, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4473858637",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-24",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 58,
-   "new": true
-  },
-  {
-   "id": "757a7aa3b0b6",
-   "title": "Sr Staff, Supply planning",
-   "company": "Enphase Energy",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4475552853",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 55,
-   "new": true
-  },
-  {
-   "id": "0a09c661bf82",
-   "title": "Supply Chain Planning - Transformation / Business Consulting",
-   "company": "Mindsprint",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4482941371",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 55,
-   "new": true
-  },
-  {
-   "id": "e0d34128fb19",
-   "title": "Supply Planner Principal",
-   "company": "Honeywell Technologies",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4475523881",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 55,
-   "new": true
+   "new": false
   },
   {
    "id": "05f9bc6725a8",
@@ -533,7 +533,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 55,
-   "new": true
+   "new": false
   },
   {
    "id": "5e778b01db96",
@@ -548,8 +548,25 @@
    "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 55,
+   "new": false
+  },
+  {
+   "id": "0264fcc7434c",
+   "title": "Demand Planning Professional (SCM Specialist)",
+   "company": "Siemens Healthineers",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4475692752",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-16",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 48,
    "new": true
   },
   {
@@ -565,9 +582,9 @@
    "posted": "2026-10-21",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 53,
-   "new": true
+   "new": false
   },
   {
    "id": "4fdcb85d870b",
@@ -582,9 +599,9 @@
    "posted": "2026-10-22",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 53,
-   "new": true
+   "new": false
   },
   {
    "id": "1f79ba1e3123",
@@ -600,9 +617,9 @@
    "posted": "2026-10-23",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 53,
-   "new": true
+   "new": false
   },
   {
    "id": "6e2a26d6348a",
@@ -617,26 +634,179 @@
    "posted": "2026-10-23",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 53,
-   "new": true
+   "new": false
   },
   {
-   "id": "0444b9e98fb3",
-   "title": "Executive - Inventory Management",
-   "company": "Titan Company",
-   "location": "Bengaluru, India",
-   "url": "https://www.naukri.com/job-listings-executive-inventory-management-titan-company-bengaluru-3-to-7-years-241026010543",
-   "source": "naukri",
+   "id": "9e8acbbf8cc0",
+   "title": "Functional Consultant - Supply Planning (D214)",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4445099293",
+   "source": "linkedin",
    "sources": [
-    "naukri"
+    "linkedin"
    ],
    "posted": "2026-10-24",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 50,
+   "last_seen": "2026-10-28",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "03c9237e824d",
+   "title": "Implementation Consultant and Integration Developer",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4473854834",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-24",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "a5b90cdd5dcc",
+   "title": "Demand And Supply Planning Manager",
+   "company": "ATK Human Capital Consultants",
+   "location": "Thane, India",
+   "url": "https://www.naukri.com/job-listings-demand-and-supply-planning-manager-atk-human-capital-consultants-thane-1-to-6-years-281026005531",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 48,
    "new": true
+  },
+  {
+   "id": "e6a29595f235",
+   "title": "FP&A - Financial Planning & Business Analyst",
+   "company": "Naukri E Hire Campaign",
+   "location": "Hyderabad, India",
+   "url": "https://www.naukri.com/job-listings-fp-a-financial-planning-business-analyst-naukri-e-hire-campaign-hyderabad-5-to-8-years-281026008529",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "271ef2dca7b8",
+   "title": "Financial Planning Analyst",
+   "company": "Imaginators Try Going Beyond",
+   "location": "Noida, Gurugram, Delhi / NCR, India",
+   "url": "https://www.naukri.com/job-listings-financial-planning-analyst-imaginators-try-going-beyond-noida-gurugram-delhi-ncr-1-to-6-years-281026008434",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "b2bb29555ce0",
+   "title": "Forecast Analyst",
+   "company": "Michelin",
+   "location": "Pune, India",
+   "url": "https://www.naukri.com/job-listings-forecast-analyst-michelin-pune-3-to-5-years-281026004529",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "f04ca83e3155",
+   "title": "Manager - Financial Planning & Analysis",
+   "company": "ANJALI T.PRECISION",
+   "location": "Pune(Alandi +5), Chikhali, India",
+   "url": "https://www.naukri.com/job-listings-manager-financial-planning-analysis-anjali-t-precision-pune-chikhali-8-to-12-years-281026010937",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "757a7aa3b0b6",
+   "title": "Sr Staff, Supply planning",
+   "company": "Enphase Energy",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4475552853",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 50,
+   "new": false
+  },
+  {
+   "id": "0a09c661bf82",
+   "title": "Supply Chain Planning - Transformation / Business Consulting",
+   "company": "Mindsprint",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4482941371",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 50,
+   "new": false
+  },
+  {
+   "id": "e0d34128fb19",
+   "title": "Supply Planner Principal",
+   "company": "Honeywell Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4475523881",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 50,
+   "new": false
   },
   {
    "id": "ec3f384a33ab",
@@ -653,7 +823,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "c777d0455fb6",
@@ -670,7 +840,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "fd90710c5cdc",
@@ -687,7 +857,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "33459395f0cd",
@@ -702,9 +872,9 @@
    "posted": "2026-10-14",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "e3fa0ab0e208",
@@ -719,9 +889,9 @@
    "posted": "2026-10-14",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "aba4e07c6222",
@@ -737,9 +907,9 @@
    "posted": "2026-10-15",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "0b3e786fe2b2",
@@ -754,9 +924,9 @@
    "posted": "2026-10-15",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "8bb2aa6115c7",
@@ -772,9 +942,9 @@
    "posted": "2026-10-15",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "eec3e1d5394a",
@@ -789,9 +959,9 @@
    "posted": "2026-10-16",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "368132d48e91",
@@ -806,9 +976,9 @@
    "posted": "2026-10-16",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "1bb55eb34baf",
@@ -823,9 +993,9 @@
    "posted": "2026-10-16",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "13d3437b5b93",
@@ -840,9 +1010,9 @@
    "posted": "2026-10-17",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "d7611c04bb2a",
@@ -857,9 +1027,9 @@
    "posted": "2026-10-18",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "4ddf98d07618",
@@ -874,9 +1044,9 @@
    "posted": "2026-10-18",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "8dd950545572",
@@ -891,9 +1061,9 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "0e4866c34506",
@@ -908,9 +1078,9 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "bc1dc199d55b",
@@ -926,26 +1096,9 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 48,
-   "new": true
-  },
-  {
-   "id": "5112091f60a7",
-   "title": "Financial Planning & Analysis || Gurgaon || Walk-in || AM / Manager",
-   "company": "Imaginators Try Going Beyond",
-   "location": "Gurugram, Delhi / NCR, India",
-   "url": "https://www.naukri.com/job-listings-financial-planning-analysis-gurgaon-walk-in-am-manager-imaginators-try-going-beyond-gurugram-delhi-ncr-7-to-12-years-200826029334",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "c64401522f3e",
@@ -962,7 +1115,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "d7159e2c4b5d",
@@ -979,7 +1132,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "589a3f6cce98",
@@ -996,7 +1149,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "6b845d09ca8b",
@@ -1013,7 +1166,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "b0f5540dc9f4",
@@ -1030,7 +1183,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "9af5f9e981c9",
@@ -1047,7 +1200,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "f17636554b87",
@@ -1064,7 +1217,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 48,
-   "new": true
+   "new": false
   },
   {
    "id": "a6d78ba7e4b6",
@@ -1081,7 +1234,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 45,
-   "new": true
+   "new": false
   },
   {
    "id": "f116ed299107",
@@ -1098,7 +1251,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 45,
-   "new": true
+   "new": false
   },
   {
    "id": "3c6b01e91804",
@@ -1115,7 +1268,109 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 45,
+   "new": false
+  },
+  {
+   "id": "0444b9e98fb3",
+   "title": "Executive - Inventory Management",
+   "company": "Titan Company",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-executive-inventory-management-titan-company-bengaluru-3-to-7-years-241026010543",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-24",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 45,
+   "new": false
+  },
+  {
+   "id": "ebb6751bde84",
+   "title": "Distribution Requirements Planner",
+   "company": "Capgemini",
+   "location": "Chennai, India",
+   "url": "https://www.naukri.com/job-listings-distribution-requirements-planner-capgemini-chennai-4-to-6-years-281026007629",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 40,
    "new": true
+  },
+  {
+   "id": "1a9e357ff851",
+   "title": "Oracle Fusion Demand Planning Subject Matter Expert (SME)",
+   "company": "Prolifics Corporation",
+   "location": "Hyderabad, India",
+   "url": "https://www.naukri.com/job-listings-oracle-fusion-demand-planning-subject-matter-expert-sme-prolifics-corporation-hyderabad-8-to-13-years-281026003629",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "d9ba5b4eca07",
+   "title": "Production Planning And Control Executive",
+   "company": "Saint Gobain",
+   "location": "Oragadam, Sriperumbudur, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-production-planning-and-control-executive-saint-gobain-oragadam-sriperumbudur-chennai-2-to-5-years-281026009241",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "e1b2fe4d55d8",
+   "title": "Supply Chain Planning & Purchase Operations -CCTV, Electronic security",
+   "company": "Mindstech",
+   "location": "Noida, India",
+   "url": "https://www.naukri.com/job-listings-supply-chain-planning-purchase-operations-cctv-electronic-security-mindstech-noida-8-to-10-years-281026008187",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "5112091f60a7",
+   "title": "Financial Planning & Analysis || Gurgaon || Walk-in || AM / Manager",
+   "company": "Imaginators Try Going Beyond",
+   "location": "Gurugram, Delhi / NCR, India",
+   "url": "https://www.naukri.com/job-listings-financial-planning-analysis-gurgaon-walk-in-am-manager-imaginators-try-going-beyond-gurugram-delhi-ncr-7-to-12-years-200826029334",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 43,
+   "new": false
   },
   {
    "id": "3eb5491699a3",
@@ -1132,7 +1387,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "097edfb0a79e",
@@ -1149,7 +1404,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "de8df0d5b36b",
@@ -1166,7 +1421,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "7189e8e8cf39",
@@ -1181,9 +1436,9 @@
    "posted": "2026-10-15",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "b32dad7e5c29",
@@ -1198,26 +1453,9 @@
    "posted": "2026-10-16",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 40,
-   "new": true
-  },
-  {
-   "id": "63c8ea2f18d3",
-   "title": "Financial Planning & Analysis",
-   "company": "PMS Consulting",
-   "location": "Gurugram, India",
-   "url": "https://www.naukri.com/job-listings-financial-planning-analysis-pms-consulting-gurugram-3-to-8-years-261026027316",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "ce52324f0d5d",
@@ -1234,7 +1472,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "69e89ead055a",
@@ -1251,7 +1489,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "6087b95325ab",
@@ -1268,7 +1506,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "fdc3be44a2b8",
@@ -1285,7 +1523,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "023faf91261d",
@@ -1300,9 +1538,9 @@
    "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "a325fa9458e1",
@@ -1319,7 +1557,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "f5b45736f49a",
@@ -1336,7 +1574,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
+   "new": false
   },
   {
    "id": "ce3864a7c02a",
@@ -1353,24 +1591,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 40,
-   "new": true
-  },
-  {
-   "id": "9977f0029497",
-   "title": "Demand Planning (Forecast) Analyst",
-   "company": "Mongoose Minds Private Limited",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=4f225da1ef77ee14",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-10-20",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 38,
-   "new": true
+   "new": false
   },
   {
    "id": "218c241cb568",
@@ -1385,9 +1606,26 @@
    "posted": "2026-10-22",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 38,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "63c8ea2f18d3",
+   "title": "Financial Planning & Analysis",
+   "company": "PMS Consulting",
+   "location": "Gurugram, India",
+   "url": "https://www.naukri.com/job-listings-financial-planning-analysis-pms-consulting-gurugram-3-to-8-years-261026027316",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 35,
+   "new": false
   },
   {
    "id": "5321fb201eda",
@@ -1404,7 +1642,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 33,
-   "new": true
+   "new": false
   },
   {
    "id": "951d1bcabe25",
@@ -1419,9 +1657,9 @@
    "posted": "2026-10-14",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 33,
-   "new": true
+   "new": false
   },
   {
    "id": "bb2372f42eb8",
@@ -1438,7 +1676,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 33,
-   "new": true
+   "new": false
   },
   {
    "id": "fda073bbad4a",
@@ -1453,9 +1691,9 @@
    "posted": "2026-10-14",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 33,
-   "new": true
+   "new": false
   },
   {
    "id": "d5ef0c0b6e1c",
@@ -1470,9 +1708,9 @@
    "posted": "2026-10-15",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 33,
-   "new": true
+   "new": false
   },
   {
    "id": "0088e7f53452",
@@ -1489,7 +1727,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 33,
-   "new": true
+   "new": false
   },
   {
    "id": "ef359d6254c3",
@@ -1504,9 +1742,9 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 33,
-   "new": true
+   "new": false
   },
   {
    "id": "c524cab0396b",
@@ -1521,9 +1759,9 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 33,
-   "new": true
+   "new": false
   },
   {
    "id": "6d6abb228f4f",
@@ -1538,9 +1776,26 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 33,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "9977f0029497",
+   "title": "Demand Planning (Forecast) Analyst",
+   "company": "Mongoose Minds Private Limited",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=4f225da1ef77ee14",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-10-20",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 33,
+   "new": false
   },
   {
    "id": "c6aa2969af9d",
@@ -1555,9 +1810,9 @@
    "posted": "2026-10-21",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 30,
-   "new": true
+   "new": false
   },
   {
    "id": "bbd43b0e9a01",
@@ -1574,7 +1829,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "score": 30,
-   "new": true
+   "new": false
   },
   {
    "id": "b6b2e7fd53b7",
@@ -1589,9 +1844,9 @@
    "posted": "2026-10-15",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "score": 25,
-   "new": true
+   "new": false
   }
  ]
 }
