@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-30 14:25 IST",
- "today": "2026-10-30",
- "total": 143,
+ "updated": "2026-10-31 14:14 IST",
+ "today": "2026-10-31",
+ "total": 152,
  "status": [
   {
    "source": "Anaplan",
    "ok": true,
-   "count": 163,
+   "count": 161,
    "error": ""
   },
   {
@@ -18,7 +18,7 @@
   {
    "source": "indeed",
    "ok": true,
-   "count": 94,
+   "count": 95,
    "error": ""
   },
   {
@@ -42,23 +42,6 @@
  ],
  "jobs": [
   {
-   "id": "a31f13ca569a",
-   "title": "Capability Lead Planning & Inventory Management",
-   "company": "Target",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4477503366",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 75,
-   "new": true
-  },
-  {
    "id": "5abace2ee9a5",
    "title": "O9/Kinaxis consultant",
    "company": "Infosys",
@@ -71,42 +54,8 @@
    "posted": "2026-10-28",
    "remote": false,
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 78,
-   "new": false
-  },
-  {
-   "id": "52ad5d4d9115",
-   "title": "Associate Planner",
-   "company": "Target",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4483644440",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
-   "score": 70,
-   "new": false
-  },
-  {
-   "id": "9a746b289f02",
-   "title": "Manager - Inventory Planning",
-   "company": "Flipkart",
-   "location": "Bengaluru, India",
-   "url": "https://www.naukri.com/job-listings-manager-inventory-planning-flipkart-bengaluru-2-to-6-years-271026025859",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 70,
    "new": false
   },
   {
@@ -122,7 +71,7 @@
    "posted": "2026-10-28",
    "remote": false,
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 70,
    "new": false
   },
@@ -145,53 +94,54 @@
    "new": false
   },
   {
-   "id": "a7c54b748937",
-   "title": "Demand Planning Manager",
-   "company": "Pentland Brands",
-   "location": "Greater Bengaluru Area",
-   "url": "https://www.linkedin.com/jobs/view/4484540444",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 63,
-   "new": true
-  },
-  {
-   "id": "3205724df7f9",
-   "title": "Supply Chain Capability Connect 2026 - S&OP Supply Planning Lead",
-   "company": "ExxonMobil India Careers",
+   "id": "a31f13ca569a",
+   "title": "Capability Lead Planning & Inventory Management",
+   "company": "Target",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4484921044",
+   "url": "https://www.linkedin.com/jobs/view/4477503366",
    "source": "linkedin",
    "sources": [
-    "linkedin"
+    "linkedin",
+    "indeed"
    ],
    "posted": "2026-10-29",
    "remote": false,
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
+   "score": 70,
+   "new": false
+  },
+  {
+   "id": "eb86a6300d93",
+   "title": "Lead – Supply Chain Planning (SAP S/4HANA & IBP)",
+   "company": "Marmon Technologies India Pvt Ltd",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4485330821",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-30",
+   "remote": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
    "score": 63,
    "new": true
   },
   {
-   "id": "c76251f4e84d",
-   "title": "SAP CAR UDF Functional Consultant",
-   "company": "Capgemini",
-   "location": "Bengaluru, Pune, Mumbai (All Areas), India",
-   "url": "https://www.naukri.com/job-listings-sap-car-udf-functional-consultant-capgemini-pune-bengaluru-mumbai-all-areas-8-to-13-years-301026014968",
+   "id": "e98f1dd85816",
+   "title": "Manager -Global Supply Planning(Capacity Planning & Vendor Management)",
+   "company": "CODERS BRAIN",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-manager-global-supply-planning-capacity-planning-vendor-management-coders-brain-bengaluru-8-to-12-years-301026011210",
    "source": "naukri",
    "sources": [
     "naukri"
    ],
    "posted": "2026-10-30",
    "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
    "score": 63,
    "new": true
   },
@@ -248,28 +198,28 @@
    "new": false
   },
   {
-   "id": "6dd05d83f0b6",
-   "title": "Manager, Software Development, Pre Station Planning Technology",
-   "company": "Amazon.com",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=09f442c23710d5c9",
-   "source": "indeed",
+   "id": "52ad5d4d9115",
+   "title": "Associate Planner",
+   "company": "Target",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483644440",
+   "source": "linkedin",
    "sources": [
-    "indeed"
+    "linkedin"
    ],
-   "posted": "2026-10-29",
+   "posted": "2026-10-27",
    "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 60,
-   "new": true
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 65,
+   "new": false
   },
   {
-   "id": "b5988415483b",
-   "title": "Assistant Manager - ECommerce Merchandise Planning",
-   "company": "Campus Activewear",
-   "location": "Gurugram, India",
-   "url": "https://www.naukri.com/job-listings-assistant-manager-ecommerce-merchandise-planning-campus-activewear-gurugram-3-to-6-years-271026017283",
+   "id": "9a746b289f02",
+   "title": "Manager - Inventory Planning",
+   "company": "Flipkart",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-manager-inventory-planning-flipkart-bengaluru-2-to-6-years-271026025859",
    "source": "naukri",
    "sources": [
     "naukri"
@@ -278,40 +228,57 @@
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
-   "score": 63,
+   "score": 65,
    "new": false
   },
   {
-   "id": "415e8aef6308",
-   "title": "Manager - Demand Planning (Global Brands / S&OP)",
-   "company": "CODERS BRAIN",
-   "location": "Bengaluru, India",
-   "url": "https://www.naukri.com/job-listings-manager-demand-planning-global-brands-s-op-coders-brain-bengaluru-8-to-13-years-151026025286",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
-   "score": 63,
-   "new": false
-  },
-  {
-   "id": "07cb77b6ca93",
-   "title": "Supply Chain Capability Connect 2026 - Supply Planning Lead",
-   "company": "ExxonMobil India Careers",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4484921044",
+   "id": "32ca83793a1b",
+   "title": "Functional Consultant _Supply Planning (D406)",
+   "company": "algoleap",
+   "location": "Bangalore North Rural, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4482298924",
    "source": "linkedin",
    "sources": [
     "linkedin"
    ],
-   "posted": "2026-10-29",
+   "posted": "2026-10-28",
    "remote": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "c76251f4e84d",
+   "title": "SAP CAR UDF Functional Consultant",
+   "company": "Capgemini",
+   "location": "Bengaluru, Pune, Mumbai (All Areas), India",
+   "url": "https://www.naukri.com/job-listings-sap-car-udf-functional-consultant-capgemini-pune-bengaluru-mumbai-all-areas-8-to-13-years-301026014968",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-30",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "score": 63,
+   "new": false
+  },
+  {
+   "id": "c777d0455fb6",
+   "title": "Senior Lead Supply Chain Planning & Optimization",
+   "company": "Sandisk",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4478747315",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-30",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
    "score": 63,
    "new": false
   },
@@ -379,135 +346,50 @@
    "posted": "2026-10-22",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 60,
    "new": false
   },
   {
-   "id": "5028db4e6d21",
-   "title": "IND_Demand Planner",
-   "company": "Lowe's India",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4475449740",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 55,
-   "new": true
-  },
-  {
-   "id": "512ded21f3ef",
-   "title": "Planning Consolidator",
-   "company": "Chhabra Infosolutions",
-   "location": "Bengaluru(Yelahanka), India",
-   "url": "https://www.naukri.com/job-listings-planning-consolidator-chhabra-infosolutions-bengaluru-2-to-3-years-291026030210",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 55,
-   "new": true
-  },
-  {
-   "id": "f84e7772728b",
-   "title": "Water Planning executive",
-   "company": "Chhabra Infosolutions",
-   "location": "Bengaluru(Yelahanka), India",
-   "url": "https://www.naukri.com/job-listings-water-planning-executive-chhabra-infosolutions-bengaluru-1-to-2-years-291026032171",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 55,
-   "new": true
-  },
-  {
-   "id": "8937ad575faf",
-   "title": "Assistant Manager -Retail Planner -Bangalore",
-   "company": "Tab Placements",
+   "id": "daf8cb6c2972",
+   "title": "Walk-in || Inventory & Purchase Executive",
+   "company": "Getlook Beauty",
    "location": "Bengaluru, India",
-   "url": "https://www.naukri.com/job-listings-assistant-manager-retail-planner-bangalore-tab-placements-bengaluru-2-to-4-years-150726025189",
+   "url": "https://www.naukri.com/job-listings-inventory-purchase-executive-getlook-beauty-bengaluru-0-to-5-years-301026034637",
    "source": "naukri",
    "sources": [
     "naukri"
    ],
-   "posted": "2026-10-27",
+   "posted": "2026-10-30",
    "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
-   "score": 58,
-   "new": false
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "score": 55,
+   "new": true
   },
   {
-   "id": "7222c8fee489",
-   "title": "Oracle WMS Cloud Techno-Functional Consultant",
-   "company": "Maneva Consulting",
-   "location": "Bengaluru, Hyderabad, Pune, India",
-   "url": "https://www.naukri.com/job-listings-oracle-wms-cloud-techno-functional-consultant-maneva-consulting-hyderabad-pune-bengaluru-8-to-12-years-271026019883",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 58,
-   "new": false
-  },
-  {
-   "id": "6c5f6f6e1c1d",
-   "title": "SAP CAR – Unified Demand Forecasting (UDF) Consultant",
-   "company": "Capgemini",
+   "id": "04e8e18fdfd1",
+   "title": "Senior Analyst, Forecasting",
+   "company": "Takeda",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4481840923",
+   "url": "https://www.linkedin.com/jobs/view/4427318809",
    "source": "linkedin",
    "sources": [
     "linkedin"
    ],
-   "posted": "2026-10-27",
+   "posted": "2026-10-24",
    "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
-   "score": 58,
-   "new": false
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "score": 53,
+   "new": true
   },
   {
-   "id": "1660cd53f463",
-   "title": "SCM Functional Consultant",
-   "company": "The UrbanIndia",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4483684156",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
-   "score": 58,
-   "new": false
-  },
-  {
-   "id": "574cdd22c7fa",
-   "title": "Senior Functional Consultant - Oracle Fusion Financials",
-   "company": "Epam Systems",
-   "location": "Bengaluru, Hyderabad, Chennai, India",
-   "url": "https://www.naukri.com/job-listings-senior-functional-consultant-oracle-fusion-financials-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-121026010502",
+   "id": "b5988415483b",
+   "title": "Assistant Manager - ECommerce Merchandise Planning",
+   "company": "Campus Activewear",
+   "location": "Gurugram, India",
+   "url": "https://www.naukri.com/job-listings-assistant-manager-ecommerce-merchandise-planning-campus-activewear-gurugram-3-to-6-years-271026017283",
    "source": "naukri",
    "sources": [
     "naukri"
@@ -516,74 +398,6 @@
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
-   "score": 58,
-   "new": false
-  },
-  {
-   "id": "a180a8009d56",
-   "title": "Senior Planning Analyst",
-   "company": "Blissclub",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4483639117",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
-   "score": 58,
-   "new": false
-  },
-  {
-   "id": "775bd17734ec",
-   "title": "Solution consultant--Digital Technology & Operations",
-   "company": "Flexi Careers India",
-   "location": "Bengaluru(Bagmane Tech Park), India",
-   "url": "https://www.naukri.com/job-listings-solution-consultant-digital-technology-operations-flexi-careers-india-bengaluru-6-to-10-years-271026032385",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 58,
-   "new": false
-  },
-  {
-   "id": "f36f4914ca5b",
-   "title": "Supply Chain Functional Consultant",
-   "company": "Acespire Tech Consulting",
-   "location": "Bengaluru, India",
-   "url": "https://www.naukri.com/job-listings-supply-chain-functional-consultant-acespire-tech-consulting-bengaluru-3-to-5-years-271026022319",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 58,
-   "new": false
-  },
-  {
-   "id": "94bee394258d",
-   "title": "Supply Chain-Planning/Consultant",
-   "company": "Ilink Talent Solutions",
-   "location": "Bengaluru, Chennai, India",
-   "url": "https://www.naukri.com/job-listings-supply-chain-planning-consultant-ilink-talent-solutions-chennai-bengaluru-12-to-20-years-271026014078",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
    "score": 58,
    "new": false
   },
@@ -600,7 +414,7 @@
    "posted": "2026-10-28",
    "remote": false,
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 58,
    "new": false
   },
@@ -639,55 +453,88 @@
    "new": false
   },
   {
-   "id": "f74193136172",
-   "title": "Sr Software Development Engineer, Pre Station Planning Technology",
-   "company": "Amazon.com",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=b86e50c949f1920e",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-10-30",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 52,
-   "new": true
-  },
-  {
-   "id": "1f79ba1e3123",
+   "id": "a7c54b748937",
    "title": "Demand Planning Manager",
-   "company": "PinnacleU",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4480657551",
-   "source": "linkedin",
-   "sources": [
-    "linkedin",
-    "indeed"
-   ],
-   "posted": "2026-10-23",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
-   "score": 53,
-   "new": false
-  },
-  {
-   "id": "6e2a26d6348a",
-   "title": "Oracle Cloud Planning Consultant",
-   "company": "Infosys",
-   "location": "Bengaluru East, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4472550835",
+   "company": "Pentland Brands",
+   "location": "Greater Bengaluru Area",
+   "url": "https://www.linkedin.com/jobs/view/4484540444",
    "source": "linkedin",
    "sources": [
     "linkedin"
    ],
-   "posted": "2026-10-23",
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
+   "score": 58,
+   "new": false
+  },
+  {
+   "id": "415e8aef6308",
+   "title": "Manager - Demand Planning (Global Brands / S&OP)",
+   "company": "CODERS BRAIN",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-manager-demand-planning-global-brands-s-op-coders-brain-bengaluru-8-to-13-years-151026025286",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
    "remote": false,
    "first_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
+   "score": 58,
+   "new": false
+  },
+  {
+   "id": "3205724df7f9",
+   "title": "Supply Chain Capability Connect 2026 - S&OP Supply Planning Lead",
+   "company": "ExxonMobil India Careers",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4484921044",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
+   "score": 58,
+   "new": false
+  },
+  {
+   "id": "07cb77b6ca93",
+   "title": "Supply Chain Capability Connect 2026 - Supply Planning Lead",
+   "company": "ExxonMobil India Careers",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4484921044",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "score": 58,
+   "new": false
+  },
+  {
+   "id": "6dd05d83f0b6",
+   "title": "Manager, Software Development, Pre Station Planning Technology",
+   "company": "Amazon.com",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=09f442c23710d5c9",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
    "last_seen": "2026-10-30",
-   "score": 53,
+   "score": 55,
    "new": false
   },
   {
@@ -703,7 +550,7 @@
    "posted": "2026-10-24",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 53,
    "new": false
   },
@@ -720,7 +567,7 @@
    "posted": "2026-10-24",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 53,
    "new": false
   },
@@ -737,7 +584,7 @@
    "posted": "2026-10-26",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 53,
    "new": false
   },
@@ -771,112 +618,179 @@
    "posted": "2026-10-26",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 53,
    "new": false
   },
   {
-   "id": "8b3d0a0f6f6a",
-   "title": "Deputy Manager - Material Planning",
-   "company": "Caterpillar Signs",
-   "location": "Gandhinagar, India",
-   "url": "https://www.naukri.com/job-listings-deputy-manager-material-planning-caterpillar-signs-gandhinagar-6-to-10-years-291026038243",
+   "id": "8937ad575faf",
+   "title": "Assistant Manager -Retail Planner -Bangalore",
+   "company": "Tab Placements",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-assistant-manager-retail-planner-bangalore-tab-placements-bengaluru-2-to-4-years-150726025189",
    "source": "naukri",
    "sources": [
     "naukri"
    ],
-   "posted": "2026-10-29",
+   "posted": "2026-10-27",
    "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 48,
-   "new": true
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 53,
+   "new": false
   },
   {
-   "id": "70a54dbf0b16",
-   "title": "Retail Merchandising Functional Consultant",
-   "company": "Infosys",
+   "id": "7222c8fee489",
+   "title": "Oracle WMS Cloud Techno-Functional Consultant",
+   "company": "Maneva Consulting",
+   "location": "Bengaluru, Hyderabad, Pune, India",
+   "url": "https://www.naukri.com/job-listings-oracle-wms-cloud-techno-functional-consultant-maneva-consulting-hyderabad-pune-bengaluru-8-to-12-years-271026019883",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "6c5f6f6e1c1d",
+   "title": "SAP CAR – Unified Demand Forecasting (UDF) Consultant",
+   "company": "Capgemini",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4481840923",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "1660cd53f463",
+   "title": "SCM Functional Consultant",
+   "company": "The UrbanIndia",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483684156",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "574cdd22c7fa",
+   "title": "Senior Functional Consultant - Oracle Fusion Financials",
+   "company": "Epam Systems",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-senior-functional-consultant-oracle-fusion-financials-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-121026010502",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "a180a8009d56",
+   "title": "Senior Planning Analyst",
+   "company": "Blissclub",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483639117",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "775bd17734ec",
+   "title": "Solution consultant--Digital Technology & Operations",
+   "company": "Flexi Careers India",
+   "location": "Bengaluru(Bagmane Tech Park), India",
+   "url": "https://www.naukri.com/job-listings-solution-consultant-digital-technology-operations-flexi-careers-india-bengaluru-6-to-10-years-271026032385",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "f36f4914ca5b",
+   "title": "Supply Chain Functional Consultant",
+   "company": "Acespire Tech Consulting",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-supply-chain-functional-consultant-acespire-tech-consulting-bengaluru-3-to-5-years-271026022319",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "94bee394258d",
+   "title": "Supply Chain-Planning/Consultant",
+   "company": "Ilink Talent Solutions",
+   "location": "Bengaluru, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-supply-chain-planning-consultant-ilink-talent-solutions-chennai-bengaluru-12-to-20-years-271026014078",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 53,
+   "new": false
+  },
+  {
+   "id": "f74193136172",
+   "title": "Sr Software Development Engineer, Pre Station Planning Technology",
+   "company": "Amazon.com",
    "location": "KA, India",
-   "url": "https://www.naukri.com/job-listings-retail-merchandising-functional-consultant-infosys-limited-bengaluru-5-to-10-years-301026913751",
-   "source": "naukri",
-   "sources": [
-    "indeed",
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 48,
-   "new": true
-  },
-  {
-   "id": "db0fcdf23d03",
-   "title": "Senior Demand Planner Global Water Equipment",
-   "company": "Ecolab Global Services",
-   "location": "Pune(Kharadi), India",
-   "url": "https://www.naukri.com/job-listings-senior-demand-planner-global-water-equipment-ecolab-global-services-pune-5-to-10-years-301026000076",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 48,
-   "new": true
-  },
-  {
-   "id": "d6a54561b963",
-   "title": "Supply Chain Capability Connect 2026 - S&OP Supply Planning Lead",
-   "company": "ExxonMobil",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=93039d7dfa6d1d1b",
+   "url": "https://in.indeed.com/viewjob?jk=b86e50c949f1920e",
    "source": "indeed",
    "sources": [
     "indeed"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 48,
-   "new": true
-  },
-  {
-   "id": "093e80968d41",
-   "title": "Work Force Management (WFM)- Capacity Planning Analyst | Hyderabad",
-   "company": "Axis Services",
-   "location": "Hyderabad, India",
-   "url": "https://www.naukri.com/job-listings-work-force-management-wfm-capacity-planning-analyst-hyderabad-axis-services-hyderabad-3-to-6-years-291026031157",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 48,
-   "new": true
-  },
-  {
-   "id": "65e77443aa62",
-   "title": "Financial Planning and Analysis Lead",
-   "company": "Gratitude India",
-   "location": "Noida, Gurugram, Delhi / NCR, India",
-   "url": "https://www.naukri.com/job-listings-financial-planning-and-analysis-lead-gratitude-india-noida-gurugram-delhi-ncr-10-to-16-years-081026008994",
-   "source": "naukri",
-   "sources": [
-    "naukri"
    ],
    "posted": "2026-10-30",
    "remote": false,
    "first_seen": "2026-10-30",
    "last_seen": "2026-10-30",
-   "score": 48,
-   "new": true
+   "score": 52,
+   "new": false
   },
   {
    "id": "0a4371235b3e",
@@ -896,57 +810,6 @@
    "new": false
   },
   {
-   "id": "d39f5437e132",
-   "title": "Supply Planning - Transformation / Business Consulting",
-   "company": "Mindsprint",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4482941371",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-26",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 45,
-   "new": true
-  },
-  {
-   "id": "05f9bc6725a8",
-   "title": "IBP Supply Planning Data Scientist",
-   "company": "Agilent Technologies",
-   "location": "Bengaluru East, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4483763037",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 50,
-   "new": false
-  },
-  {
-   "id": "5e778b01db96",
-   "title": "Inventory Planner",
-   "company": "FirstClub",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4483640113",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
-   "score": 50,
-   "new": false
-  },
-  {
    "id": "37dfa88efa12",
    "title": "HEAD – MIS, BUSINESS ANALYTICS & PLANNING",
    "company": "Dry Fruit House",
@@ -959,7 +822,7 @@
    "posted": "2026-10-28",
    "remote": false,
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 50,
    "new": false
   },
@@ -976,6 +839,57 @@
    "posted": "2026-10-28",
    "remote": false,
    "first_seen": "2026-10-28",
+   "last_seen": "2026-10-31",
+   "score": 50,
+   "new": false
+  },
+  {
+   "id": "5028db4e6d21",
+   "title": "IND_Demand Planner",
+   "company": "Lowe's India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4475449740",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
+   "score": 50,
+   "new": false
+  },
+  {
+   "id": "512ded21f3ef",
+   "title": "Planning Consolidator",
+   "company": "Chhabra Infosolutions",
+   "location": "Bengaluru(Yelahanka), India",
+   "url": "https://www.naukri.com/job-listings-planning-consolidator-chhabra-infosolutions-bengaluru-2-to-3-years-291026030210",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "score": 50,
+   "new": false
+  },
+  {
+   "id": "f84e7772728b",
+   "title": "Water Planning executive",
+   "company": "Chhabra Infosolutions",
+   "location": "Bengaluru(Yelahanka), India",
+   "url": "https://www.naukri.com/job-listings-water-planning-executive-chhabra-infosolutions-bengaluru-1-to-2-years-291026032171",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
    "last_seen": "2026-10-30",
    "score": 50,
    "new": false
@@ -986,23 +900,6 @@
    "company": "OSI Digital",
    "location": "Bengaluru, Karnataka, India",
    "url": "https://www.linkedin.com/jobs/view/4478763557",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-13",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 48,
-   "new": false
-  },
-  {
-   "id": "c777d0455fb6",
-   "title": "Senior Lead Supply Chain Planning & Optimization",
-   "company": "Sandisk",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4478747315",
    "source": "linkedin",
    "sources": [
     "linkedin"
@@ -1199,7 +1096,7 @@
    "posted": "2026-10-17",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 48,
    "new": false
   },
@@ -1216,7 +1113,7 @@
    "posted": "2026-10-18",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 48,
    "new": false
   },
@@ -1233,7 +1130,7 @@
    "posted": "2026-10-18",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 48,
    "new": false
   },
@@ -1250,7 +1147,7 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 48,
    "new": false
   },
@@ -1267,7 +1164,7 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-31",
    "score": 48,
    "new": false
   },
@@ -1285,7 +1182,7 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 48,
    "new": false
   },
@@ -1302,7 +1199,7 @@
    "posted": "2026-10-21",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 48,
    "new": false
   },
@@ -1319,75 +1216,93 @@
    "posted": "2026-10-22",
    "remote": false,
    "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 48,
+   "new": false
+  },
+  {
+   "id": "1f79ba1e3123",
+   "title": "Demand Planning Manager",
+   "company": "PinnacleU",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4480657551",
+   "source": "linkedin",
+   "sources": [
+    "linkedin",
+    "indeed"
+   ],
+   "posted": "2026-10-23",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
+   "score": 48,
+   "new": false
+  },
+  {
+   "id": "6e2a26d6348a",
+   "title": "Oracle Cloud Planning Consultant",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4472550835",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-23",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 48,
+   "new": false
+  },
+  {
+   "id": "deaa26841f20",
+   "title": "SAP MM Functional Consultant with SAP Testing",
+   "company": "Qyrus",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=640db66b6b61e520",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-10-28",
+   "remote": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "score": 43,
+   "new": true
+  },
+  {
+   "id": "65e77443aa62",
+   "title": "Financial Planning and Analysis Lead",
+   "company": "Gratitude India",
+   "location": "Noida, Gurugram, Delhi / NCR, India",
+   "url": "https://www.naukri.com/job-listings-financial-planning-and-analysis-lead-gratitude-india-noida-gurugram-delhi-ncr-10-to-16-years-081026008994",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-30",
+   "remote": false,
+   "first_seen": "2026-10-30",
    "last_seen": "2026-10-30",
    "score": 48,
    "new": false
   },
   {
-   "id": "a70c15618d24",
-   "title": "Dy Manager / Manager - PCBA planner - PPC",
-   "company": "Exicom",
-   "location": "Hyderabad(Tukkuguda), India",
-   "url": "https://www.naukri.com/job-listings-dy-manager-manager-pcba-planner-ppc-exicom-hyderabad-10-to-15-years-240726021126",
+   "id": "db0fcdf23d03",
+   "title": "Senior Demand Planner Global Water Equipment",
+   "company": "Ecolab Global Services",
+   "location": "Pune(Kharadi), India",
+   "url": "https://www.naukri.com/job-listings-senior-demand-planner-global-water-equipment-ecolab-global-services-pune-5-to-10-years-301026000076",
    "source": "naukri",
    "sources": [
     "naukri"
    ],
-   "posted": "2026-10-29",
+   "posted": "2026-10-30",
    "remote": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
-   "score": 48,
-   "new": false
-  },
-  {
-   "id": "e4a46895e2ab",
-   "title": "Senior Demand Planning Analyst / Consultant",
-   "company": "Plan Optimus",
-   "location": "Coimbatore, India",
-   "url": "https://www.naukri.com/job-listings-senior-demand-planning-analyst-consultant-plan-optimus-coimbatore-4-to-7-years-291026000742",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
-   "score": 48,
-   "new": false
-  },
-  {
-   "id": "a2f5cda506ca",
-   "title": "Supply Chain Capability Connect 2026 - Supply Planning Lead",
-   "company": "ExxonMobil",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=93039d7dfa6d1d1b",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
-   "score": 48,
-   "new": false
-  },
-  {
-   "id": "f17636554b87",
-   "title": "Supply Planner / S&OP Specialist",
-   "company": "Tekskills",
-   "location": "Mumbai, Navi Mumbai, Pune, India",
-   "url": "https://www.naukri.com/job-listings-supply-planner-s-op-specialist-tekskills-mumbai-navi-mumbai-pune-4-to-8-years-271026030059",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 48,
    "new": false
   },
@@ -1460,23 +1375,6 @@
    "new": false
   },
   {
-   "id": "5fe5096e6869",
-   "title": "Blue Yonder Demand Planning",
-   "company": "algoleap",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://www.linkedin.com/jobs/view/4433932754",
-   "source": "linkedin",
-   "sources": [
-    "linkedin"
-   ],
-   "posted": "2026-10-22",
-   "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 40,
-   "new": true
-  },
-  {
    "id": "0444b9e98fb3",
    "title": "Executive - Inventory Management",
    "company": "Titan Company",
@@ -1540,145 +1438,111 @@
    "posted": "2026-10-26",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 45,
    "new": false
   },
   {
-   "id": "d351a5b8b0c6",
-   "title": "TEAL - Demand Planning",
-   "company": "TITAN COMPANY",
-   "location": "TN, India",
-   "url": "https://in.indeed.com/viewjob?jk=685854b6df04cbfb",
-   "source": "indeed",
+   "id": "d39f5437e132",
+   "title": "Supply Planning - Transformation / Business Consulting",
+   "company": "Mindsprint",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4482941371",
+   "source": "linkedin",
    "sources": [
-    "indeed"
+    "linkedin"
    ],
-   "posted": "2026-10-29",
+   "posted": "2026-10-26",
    "remote": false,
    "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
-   "score": 40,
-   "new": true
+   "last_seen": "2026-10-31",
+   "score": 45,
+   "new": false
   },
   {
-   "id": "2de44ed4a423",
-   "title": "CA / CMA Fresher_(Financial planning and analysis )Walk In interview",
-   "company": "Imaginators Try Going Beyond",
-   "location": "Noida, Gurugram, Delhi / NCR, India",
-   "url": "https://www.naukri.com/job-listings-ca-cma-fresher-financial-planning-and-analysis-walk-in-interview-imaginators-try-going-beyond-noida-gurugram-delhi-ncr-0-to-2-years-301026013015",
+   "id": "05f9bc6725a8",
+   "title": "IBP Supply Planning Data Scientist",
+   "company": "Agilent Technologies",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483763037",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 45,
+   "new": false
+  },
+  {
+   "id": "5e778b01db96",
+   "title": "Inventory Planner",
+   "company": "FirstClub",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483640113",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-31",
+   "score": 45,
+   "new": false
+  },
+  {
+   "id": "a78e75df9867",
+   "title": "Head Demand & Supply Planning",
+   "company": "WOW Softech",
+   "location": "Jaipur, India",
+   "url": "https://www.naukri.com/job-listings-head-demand-supply-planning-wow-softech-jaipur-12-to-15-years-301026029434",
    "source": "naukri",
    "sources": [
     "naukri"
    ],
    "posted": "2026-10-30",
    "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
    "score": 40,
    "new": true
   },
   {
-   "id": "63cab2bbbf90",
-   "title": "CA/CMA Qualified Freshers- financial planning and analysis",
-   "company": "Imaginators Try Going Beyond",
-   "location": "New Delhi, Gurugram, Delhi / NCR, India",
-   "url": "https://www.naukri.com/job-listings-ca-cma-qualified-freshers-financial-planning-and-analysis-imaginators-try-going-beyond-new-delhi-gurugram-delhi-ncr-0-to-5-years-301026013215",
+   "id": "9ea073064e30",
+   "title": "Material Planning Engineer",
+   "company": "BSH Household",
+   "location": "Chennai, India",
+   "url": "https://www.naukri.com/job-listings-material-planning-engineer-bsh-household-chennai-5-to-10-years-301026020843",
    "source": "naukri",
    "sources": [
     "naukri"
    ],
    "posted": "2026-10-30",
    "remote": false,
-   "first_seen": "2026-10-30",
-   "last_seen": "2026-10-30",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
    "score": 40,
    "new": true
   },
   {
-   "id": "c64401522f3e",
-   "title": "Assistant Manager - Inventory Operation",
-   "company": "Pattern Technologies",
-   "location": "Pune, India",
-   "url": "https://www.naukri.com/job-listings-assistant-manager-inventory-operation-pattern-technologies-pune-3-to-5-years-271026020923",
+   "id": "861f6b6f7e7e",
+   "title": "Material Resource Planner",
+   "company": "Nestle",
+   "location": "Gurugram, India",
+   "url": "https://www.naukri.com/job-listings-material-resource-planner-nestle-gurugram-3-to-8-years-060226032856",
    "source": "naukri",
    "sources": [
     "naukri"
    ],
-   "posted": "2026-10-27",
+   "posted": "2026-10-30",
    "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 43,
-   "new": false
-  },
-  {
-   "id": "589a3f6cce98",
-   "title": "Financial Planning And Analysis Analyst",
-   "company": "XPO India Shared Services",
-   "location": "Pune(Kharadi), India",
-   "url": "https://www.naukri.com/job-listings-financial-planning-and-analysis-analyst-xpo-india-shared-services-pune-3-to-8-years-231026034197",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 43,
-   "new": false
-  },
-  {
-   "id": "6b845d09ca8b",
-   "title": "Financial Planning and Analysis Lead",
-   "company": "Standard Group Of Companies",
-   "location": "Hyderabad, India",
-   "url": "https://www.naukri.com/job-listings-financial-planning-and-analysis-lead-standard-group-of-companies-hyderabad-6-to-11-years-271026031900",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 43,
-   "new": false
-  },
-  {
-   "id": "b0f5540dc9f4",
-   "title": "Manager,  Business Analytics and Planning",
-   "company": "GIA",
-   "location": "Mumbai, India",
-   "url": "https://www.naukri.com/job-listings-manager-business-analytics-and-planning-gia-mumbai-8-to-15-years-271026017575",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 43,
-   "new": false
-  },
-  {
-   "id": "9af5f9e981c9",
-   "title": "Senior Financial Planning Manager",
-   "company": "3 Point Hrm",
-   "location": "Mumbai(Lower Parel), India",
-   "url": "https://www.naukri.com/job-listings-senior-financial-planning-manager-3-point-hrm-mumbai-5-to-10-years-311225022866",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 43,
-   "new": false
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "score": 40,
+   "new": true
   },
   {
    "id": "d7159e2c4b5d",
@@ -1710,7 +1574,7 @@
    "posted": "2026-10-28",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 43,
    "new": false
   },
@@ -1834,6 +1698,142 @@
    "new": false
   },
   {
+   "id": "8b3d0a0f6f6a",
+   "title": "Deputy Manager - Material Planning",
+   "company": "Caterpillar Signs",
+   "location": "Gandhinagar, India",
+   "url": "https://www.naukri.com/job-listings-deputy-manager-material-planning-caterpillar-signs-gandhinagar-6-to-10-years-291026038243",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "score": 43,
+   "new": false
+  },
+  {
+   "id": "a70c15618d24",
+   "title": "Dy Manager / Manager - PCBA planner - PPC",
+   "company": "Exicom",
+   "location": "Hyderabad(Tukkuguda), India",
+   "url": "https://www.naukri.com/job-listings-dy-manager-manager-pcba-planner-ppc-exicom-hyderabad-10-to-15-years-240726021126",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "score": 43,
+   "new": false
+  },
+  {
+   "id": "70a54dbf0b16",
+   "title": "Retail Merchandising Functional Consultant",
+   "company": "Infosys",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=eaf4bc0d15e9f54a",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
+   "score": 43,
+   "new": false
+  },
+  {
+   "id": "e4a46895e2ab",
+   "title": "Senior Demand Planning Analyst / Consultant",
+   "company": "Plan Optimus",
+   "location": "Coimbatore, India",
+   "url": "https://www.naukri.com/job-listings-senior-demand-planning-analyst-consultant-plan-optimus-coimbatore-4-to-7-years-291026000742",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "score": 43,
+   "new": false
+  },
+  {
+   "id": "d6a54561b963",
+   "title": "Supply Chain Capability Connect 2026 - S&OP Supply Planning Lead",
+   "company": "ExxonMobil",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=93039d7dfa6d1d1b",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "score": 43,
+   "new": false
+  },
+  {
+   "id": "a2f5cda506ca",
+   "title": "Supply Chain Capability Connect 2026 - Supply Planning Lead",
+   "company": "ExxonMobil",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=93039d7dfa6d1d1b",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "score": 43,
+   "new": false
+  },
+  {
+   "id": "f17636554b87",
+   "title": "Supply Planner / S&OP Specialist",
+   "company": "Tekskills",
+   "location": "Mumbai, Navi Mumbai, Pune, India",
+   "url": "https://www.naukri.com/job-listings-supply-planner-s-op-specialist-tekskills-mumbai-navi-mumbai-pune-4-to-8-years-271026030059",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
+   "score": 43,
+   "new": false
+  },
+  {
+   "id": "093e80968d41",
+   "title": "Work Force Management (WFM)- Capacity Planning Analyst | Hyderabad",
+   "company": "Axis Services",
+   "location": "Hyderabad, India",
+   "url": "https://www.naukri.com/job-listings-work-force-management-wfm-capacity-planning-analyst-hyderabad-axis-services-hyderabad-3-to-6-years-291026031157",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "score": 43,
+   "new": false
+  },
+  {
    "id": "3eb5491699a3",
    "title": "Inventory Planner",
    "company": "Curefit",
@@ -1919,87 +1919,53 @@
    "new": false
   },
   {
-   "id": "be0db23e382c",
-   "title": "CA/CMA Qualified- financial planning and analysis",
+   "id": "5fe5096e6869",
+   "title": "Blue Yonder Demand Planning",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4433932754",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-10-22",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
+   "score": 40,
+   "new": false
+  },
+  {
+   "id": "2de44ed4a423",
+   "title": "CA / CMA Fresher_(Financial planning and analysis )Walk In interview",
+   "company": "Imaginators Try Going Beyond",
+   "location": "Noida, Gurugram, Delhi / NCR, India",
+   "url": "https://www.naukri.com/job-listings-ca-cma-fresher-financial-planning-and-analysis-walk-in-interview-imaginators-try-going-beyond-noida-gurugram-delhi-ncr-0-to-2-years-301026013015",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-30",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "score": 40,
+   "new": false
+  },
+  {
+   "id": "63cab2bbbf90",
+   "title": "CA/CMA Qualified Freshers- financial planning and analysis",
    "company": "Imaginators Try Going Beyond",
    "location": "New Delhi, Gurugram, Delhi / NCR, India",
-   "url": "https://www.naukri.com/job-listings-ca-cma-qualified-financial-planning-and-analysis-imaginators-try-going-beyond-new-delhi-gurugram-delhi-ncr-3-to-8-years-211026007519",
+   "url": "https://www.naukri.com/job-listings-ca-cma-qualified-freshers-financial-planning-and-analysis-imaginators-try-going-beyond-new-delhi-gurugram-delhi-ncr-0-to-5-years-301026013215",
    "source": "naukri",
    "sources": [
     "naukri"
    ],
-   "posted": "2026-10-29",
+   "posted": "2026-10-30",
    "remote": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
-   "score": 40,
-   "new": false
-  },
-  {
-   "id": "b50aabcad31a",
-   "title": "Distribution Requirement Planner (DRP)",
-   "company": "Netquo",
-   "location": "Chennai, India",
-   "url": "https://www.naukri.com/job-listings-distribution-requirement-planner-drp-netquo-chennai-4-to-9-years-291026001677",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
-   "score": 40,
-   "new": false
-  },
-  {
-   "id": "fdc3be44a2b8",
-   "title": "Financial Planning & Analysis",
-   "company": "Imaginators Try Going Beyond",
-   "location": "New Delhi, Gurugram, Delhi / NCR, India",
-   "url": "https://www.naukri.com/job-listings-financial-planning-analysis-imaginators-try-going-beyond-new-delhi-gurugram-delhi-ncr-0-to-5-years-161026012235",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-29",
-   "score": 40,
-   "new": false
-  },
-  {
-   "id": "b9afe4de6c50",
-   "title": "Parts Planner - Electronic Services (IMR Manesar)",
-   "company": "Talent Corner Hr Services",
-   "location": "Manesar, India",
-   "url": "https://www.naukri.com/job-listings-parts-planner-electronic-services-imr-manesar-talent-corner-hr-services-manesar-2-to-6-years-220726013733",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
-   "score": 40,
-   "new": false
-  },
-  {
-   "id": "f64a4a7d08f9",
-   "title": "Resource Management Planner",
-   "company": "Kongsberg Automotive",
-   "location": "Faridabad, India",
-   "url": "https://www.naukri.com/job-listings-resource-management-planner-kongsberg-automotive-faridabad-6-to-9-years-291026008230",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-29",
-   "remote": false,
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
    "score": 40,
    "new": false
   },
@@ -2021,11 +1987,11 @@
    "new": false
   },
   {
-   "id": "ce52324f0d5d",
-   "title": "CA/CMA Qualified || financial planning and analysis",
-   "company": "Imaginators Try Going Beyond",
-   "location": "Gurugram, India",
-   "url": "https://www.naukri.com/job-listings-ca-cma-qualified-financial-planning-and-analysis-imaginators-try-going-beyond-gurugram-1-to-6-years-271026029784",
+   "id": "c64401522f3e",
+   "title": "Assistant Manager - Inventory Operation",
+   "company": "Pattern Technologies",
+   "location": "Pune, India",
+   "url": "https://www.naukri.com/job-listings-assistant-manager-inventory-operation-pattern-technologies-pune-3-to-5-years-271026020923",
    "source": "naukri",
    "sources": [
     "naukri"
@@ -2034,66 +2000,15 @@
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
-   "score": 35,
+   "score": 38,
    "new": false
   },
   {
-   "id": "69e89ead055a",
-   "title": "Demand Planner (Pharma)",
-   "company": "Ace Recruitment Placement Consultants",
-   "location": "Ahmedabad, India",
-   "url": "https://www.naukri.com/job-listings-demand-planner-pharma-ace-recruitment-placement-consultants-ahmedabad-10-to-15-years-271026015807",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 35,
-   "new": false
-  },
-  {
-   "id": "6087b95325ab",
-   "title": "FP&A ( Financial Planning and analysis )Gurgaon || Walk In interview |",
-   "company": "Imaginators Try Going Beyond",
-   "location": "Noida, Gurugram, Delhi / NCR, India",
-   "url": "https://www.naukri.com/job-listings-fp-a-financial-planning-and-analysis-gurgaon-walk-in-interview-imaginators-try-going-beyond-noida-gurugram-delhi-ncr-7-to-12-years-271026029861",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "score": 35,
-   "new": false
-  },
-  {
-   "id": "023faf91261d",
-   "title": "Planner Material Planning",
-   "company": "Ecolab Global Services",
+   "id": "589a3f6cce98",
+   "title": "Financial Planning And Analysis Analyst",
+   "company": "XPO India Shared Services",
    "location": "Pune(Kharadi), India",
-   "url": "https://www.naukri.com/job-listings-planner-material-planning-ecolab-global-services-pune-3-to-8-years-271026025270",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-10-27",
-   "remote": false,
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-28",
-   "score": 35,
-   "new": false
-  },
-  {
-   "id": "a325fa9458e1",
-   "title": "Production Planning & Supply Chain Executive (SAP PP/MM)",
-   "company": "Venus Hr Consultancy Surat",
-   "location": "Surat, India",
-   "url": "https://www.naukri.com/job-listings-production-planning-supply-chain-executive-sap-pp-mm-venus-hr-consultancy-surat-surat-2-to-5-years-240626009180",
+   "url": "https://www.naukri.com/job-listings-financial-planning-and-analysis-analyst-xpo-india-shared-services-pune-3-to-8-years-231026034197",
    "source": "naukri",
    "sources": [
     "naukri"
@@ -2102,15 +2017,15 @@
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
-   "score": 35,
+   "score": 38,
    "new": false
   },
   {
-   "id": "f5b45736f49a",
-   "title": "Retail Planner - Merchandising & Planning",
-   "company": "Uniqlo",
-   "location": "Gurugram, India",
-   "url": "https://www.naukri.com/job-listings-retail-planner-merchandising-planning-uniqlo-gurugram-8-to-10-years-271026019231",
+   "id": "6b845d09ca8b",
+   "title": "Financial Planning and Analysis Lead",
+   "company": "Standard Group Of Companies",
+   "location": "Hyderabad, India",
+   "url": "https://www.naukri.com/job-listings-financial-planning-and-analysis-lead-standard-group-of-companies-hyderabad-6-to-11-years-271026031900",
    "source": "naukri",
    "sources": [
     "naukri"
@@ -2119,15 +2034,15 @@
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
-   "score": 35,
+   "score": 38,
    "new": false
   },
   {
-   "id": "ce3864a7c02a",
-   "title": "SR. EXECUTIVE DEMAND PLANNING",
-   "company": "Saint Gobain",
-   "location": "India, Mumbai Suburban, India",
-   "url": "https://www.naukri.com/job-listings-sr-executive-demand-planning-not-available-mumbai-suburban-india-5-to-8-years-271026013346",
+   "id": "b0f5540dc9f4",
+   "title": "Manager,  Business Analytics and Planning",
+   "company": "GIA",
+   "location": "Mumbai, India",
+   "url": "https://www.naukri.com/job-listings-manager-business-analytics-and-planning-gia-mumbai-8-to-15-years-271026017575",
    "source": "naukri",
    "sources": [
     "naukri"
@@ -2136,7 +2051,24 @@
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
-   "score": 35,
+   "score": 38,
+   "new": false
+  },
+  {
+   "id": "9af5f9e981c9",
+   "title": "Senior Financial Planning Manager",
+   "company": "3 Point Hrm",
+   "location": "Mumbai(Lower Parel), India",
+   "url": "https://www.naukri.com/job-listings-senior-financial-planning-manager-3-point-hrm-mumbai-5-to-10-years-311225022866",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 38,
    "new": false
   },
   {
@@ -2238,6 +2170,108 @@
    "remote": false,
    "first_seen": "2026-10-28",
    "last_seen": "2026-10-28",
+   "score": 35,
+   "new": false
+  },
+  {
+   "id": "be0db23e382c",
+   "title": "CA/CMA Qualified- financial planning and analysis",
+   "company": "Imaginators Try Going Beyond",
+   "location": "New Delhi, Gurugram, Delhi / NCR, India",
+   "url": "https://www.naukri.com/job-listings-ca-cma-qualified-financial-planning-and-analysis-imaginators-try-going-beyond-new-delhi-gurugram-delhi-ncr-3-to-8-years-211026007519",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "score": 35,
+   "new": false
+  },
+  {
+   "id": "b50aabcad31a",
+   "title": "Distribution Requirement Planner (DRP)",
+   "company": "Netquo",
+   "location": "Chennai, India",
+   "url": "https://www.naukri.com/job-listings-distribution-requirement-planner-drp-netquo-chennai-4-to-9-years-291026001677",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "score": 35,
+   "new": false
+  },
+  {
+   "id": "fdc3be44a2b8",
+   "title": "Financial Planning & Analysis",
+   "company": "Imaginators Try Going Beyond",
+   "location": "New Delhi, Gurugram, Delhi / NCR, India",
+   "url": "https://www.naukri.com/job-listings-financial-planning-analysis-imaginators-try-going-beyond-new-delhi-gurugram-delhi-ncr-0-to-5-years-161026012235",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
+   "score": 35,
+   "new": false
+  },
+  {
+   "id": "b9afe4de6c50",
+   "title": "Parts Planner - Electronic Services (IMR Manesar)",
+   "company": "Talent Corner Hr Services",
+   "location": "Manesar, India",
+   "url": "https://www.naukri.com/job-listings-parts-planner-electronic-services-imr-manesar-talent-corner-hr-services-manesar-2-to-6-years-220726013733",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "score": 35,
+   "new": false
+  },
+  {
+   "id": "f64a4a7d08f9",
+   "title": "Resource Management Planner",
+   "company": "Kongsberg Automotive",
+   "location": "Faridabad, India",
+   "url": "https://www.naukri.com/job-listings-resource-management-planner-kongsberg-automotive-faridabad-6-to-9-years-291026008230",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "score": 35,
+   "new": false
+  },
+  {
+   "id": "d351a5b8b0c6",
+   "title": "TEAL - Demand Planning",
+   "company": "TITAN COMPANY",
+   "location": "TN, India",
+   "url": "https://in.indeed.com/viewjob?jk=685854b6df04cbfb",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-10-29",
+   "remote": false,
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
    "score": 35,
    "new": false
   },
@@ -2356,7 +2390,7 @@
    "posted": "2026-10-19",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 33,
    "new": false
   },
@@ -2407,7 +2441,7 @@
    "posted": "2026-10-22",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 33,
    "new": false
   },
@@ -2422,6 +2456,125 @@
     "naukri"
    ],
    "posted": "2026-10-26",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 30,
+   "new": false
+  },
+  {
+   "id": "ce52324f0d5d",
+   "title": "CA/CMA Qualified || financial planning and analysis",
+   "company": "Imaginators Try Going Beyond",
+   "location": "Gurugram, India",
+   "url": "https://www.naukri.com/job-listings-ca-cma-qualified-financial-planning-and-analysis-imaginators-try-going-beyond-gurugram-1-to-6-years-271026029784",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 30,
+   "new": false
+  },
+  {
+   "id": "69e89ead055a",
+   "title": "Demand Planner (Pharma)",
+   "company": "Ace Recruitment Placement Consultants",
+   "location": "Ahmedabad, India",
+   "url": "https://www.naukri.com/job-listings-demand-planner-pharma-ace-recruitment-placement-consultants-ahmedabad-10-to-15-years-271026015807",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 30,
+   "new": false
+  },
+  {
+   "id": "6087b95325ab",
+   "title": "FP&A ( Financial Planning and analysis )Gurgaon || Walk In interview |",
+   "company": "Imaginators Try Going Beyond",
+   "location": "Noida, Gurugram, Delhi / NCR, India",
+   "url": "https://www.naukri.com/job-listings-fp-a-financial-planning-and-analysis-gurgaon-walk-in-interview-imaginators-try-going-beyond-noida-gurugram-delhi-ncr-7-to-12-years-271026029861",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 30,
+   "new": false
+  },
+  {
+   "id": "023faf91261d",
+   "title": "Planner Material Planning",
+   "company": "Ecolab Global Services",
+   "location": "Pune(Kharadi), India",
+   "url": "https://www.naukri.com/job-listings-planner-material-planning-ecolab-global-services-pune-3-to-8-years-271026025270",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
+   "score": 30,
+   "new": false
+  },
+  {
+   "id": "a325fa9458e1",
+   "title": "Production Planning & Supply Chain Executive (SAP PP/MM)",
+   "company": "Venus Hr Consultancy Surat",
+   "location": "Surat, India",
+   "url": "https://www.naukri.com/job-listings-production-planning-supply-chain-executive-sap-pp-mm-venus-hr-consultancy-surat-surat-2-to-5-years-240626009180",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 30,
+   "new": false
+  },
+  {
+   "id": "f5b45736f49a",
+   "title": "Retail Planner - Merchandising & Planning",
+   "company": "Uniqlo",
+   "location": "Gurugram, India",
+   "url": "https://www.naukri.com/job-listings-retail-planner-merchandising-planning-uniqlo-gurugram-8-to-10-years-271026019231",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
+   "remote": false,
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "score": 30,
+   "new": false
+  },
+  {
+   "id": "ce3864a7c02a",
+   "title": "SR. EXECUTIVE DEMAND PLANNING",
+   "company": "Saint Gobain",
+   "location": "India, Mumbai Suburban, India",
+   "url": "https://www.naukri.com/job-listings-sr-executive-demand-planning-not-available-mumbai-suburban-india-5-to-8-years-271026013346",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-10-27",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
@@ -2458,7 +2611,7 @@
    "posted": "2026-10-21",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "score": 25,
    "new": false
   },
