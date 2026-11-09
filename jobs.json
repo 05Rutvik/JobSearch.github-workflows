@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09 15:39 IST",
+ "updated": "2026-11-09 19:03 IST",
  "today": "2026-11-09",
- "total": 232,
+ "total": 233,
  "status": [
   {
    "source": "Anaplan",
@@ -12,7 +12,7 @@
   {
    "source": "linkedin",
    "ok": true,
-   "count": 125,
+   "count": 120,
    "error": ""
   },
   {
@@ -24,7 +24,7 @@
   {
    "source": "naukri",
    "ok": true,
-   "count": 106,
+   "count": 107,
    "error": ""
   },
   {
@@ -41,6 +41,23 @@
   }
  ],
  "jobs": [
+  {
+   "id": "ffb30176b8c8",
+   "title": "Oracle Retail planning Consultant",
+   "company": "Codeforce 360",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-oracle-retail-planning-consultant-codeforce-360-hyderabad-chennai-bengaluru-7-to-11-years-091126006789",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "score": 83,
+   "new": true
+  },
   {
    "id": "4a827f2f73fb",
    "title": "O9 Solutions-Application Lead",
@@ -367,6 +384,23 @@
    "new": false
   },
   {
+   "id": "e98f1dd85816",
+   "title": "Manager -Global Supply Planning(Capacity Planning & Vendor Management)",
+   "company": "CODERS BRAIN",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-manager-global-supply-planning-capacity-planning-vendor-management-coders-brain-bengaluru-8-to-12-years-301026011210",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-11-09",
+   "score": 63,
+   "new": false
+  },
+  {
    "id": "8f6ec10b8beb",
    "title": "Planning and Ops Manager, Account Management Excellence",
    "company": "Amazon",
@@ -556,23 +590,6 @@
    "new": false
   },
   {
-   "id": "e98f1dd85816",
-   "title": "Manager -Global Supply Planning(Capacity Planning & Vendor Management)",
-   "company": "CODERS BRAIN",
-   "location": "Bengaluru, India",
-   "url": "https://www.naukri.com/job-listings-manager-global-supply-planning-capacity-planning-vendor-management-coders-brain-bengaluru-8-to-12-years-301026011210",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-11-06",
-   "remote": false,
-   "first_seen": "2026-10-31",
-   "last_seen": "2026-11-08",
-   "score": 58,
-   "new": false
-  },
-  {
    "id": "368132d48e91",
    "title": "Materials Planning Manager",
    "company": "Cisco",
@@ -688,6 +705,57 @@
    "remote": false,
    "first_seen": "2026-11-07",
    "last_seen": "2026-11-08",
+   "score": 55,
+   "new": false
+  },
+  {
+   "id": "149b861b8bec",
+   "title": "Oracle Fusion SCM Planning Cloud and Manufacturing Cloud",
+   "company": "Jade Global",
+   "location": "Bengaluru, Hyderabad, Pune, India",
+   "url": "https://www.naukri.com/job-listings-oracle-fusion-scm-planning-cloud-and-manufacturing-cloud-jade-global-hyderabad-pune-bengaluru-10-to-20-years-071026028938",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-09",
+   "score": 55,
+   "new": false
+  },
+  {
+   "id": "3524e0438c48",
+   "title": "Oracle fusion Demand Management Cloud or Supply Planning Cloud",
+   "company": "Jade Global",
+   "location": "Bengaluru, Hyderabad, Pune, India",
+   "url": "https://www.naukri.com/job-listings-oracle-fusion-demand-management-cloud-or-supply-planning-cloud-jade-global-hyderabad-pune-bengaluru-10-to-20-years-110526016158",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-09",
+   "score": 55,
+   "new": false
+  },
+  {
+   "id": "ddb893f94fca",
+   "title": "Oracle fusion Demand planning Functional Solution Architect",
+   "company": "Jade Global",
+   "location": "Bengaluru, Hyderabad, Pune, India",
+   "url": "https://www.naukri.com/job-listings-oracle-fusion-demand-planning-functional-solution-architect-jade-global-hyderabad-pune-bengaluru-10-to-20-years-200526020943",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-09",
    "score": 55,
    "new": false
   },
@@ -1968,57 +2036,6 @@
    "new": false
   },
   {
-   "id": "149b861b8bec",
-   "title": "Oracle Fusion SCM Planning Cloud and Manufacturing Cloud",
-   "company": "Jade Global",
-   "location": "Bengaluru, Hyderabad, Pune, India",
-   "url": "https://www.naukri.com/job-listings-oracle-fusion-scm-planning-cloud-and-manufacturing-cloud-jade-global-hyderabad-pune-bengaluru-10-to-20-years-081026025732",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-11-05",
-   "remote": false,
-   "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05",
-   "score": 45,
-   "new": false
-  },
-  {
-   "id": "3524e0438c48",
-   "title": "Oracle fusion Demand Management Cloud or Supply Planning Cloud",
-   "company": "Jade Global",
-   "location": "Bengaluru, Hyderabad, Pune, India",
-   "url": "https://www.naukri.com/job-listings-oracle-fusion-demand-management-cloud-or-supply-planning-cloud-jade-global-hyderabad-pune-bengaluru-10-to-20-years-110526016158",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-11-05",
-   "remote": false,
-   "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05",
-   "score": 45,
-   "new": false
-  },
-  {
-   "id": "ddb893f94fca",
-   "title": "Oracle fusion Demand planning Functional Solution Architect",
-   "company": "Jade Global",
-   "location": "Bengaluru, Hyderabad, Pune, India",
-   "url": "https://www.naukri.com/job-listings-oracle-fusion-demand-planning-functional-solution-architect-jade-global-hyderabad-pune-bengaluru-10-to-20-years-200526020943",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-11-05",
-   "remote": false,
-   "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05",
-   "score": 45,
-   "new": false
-  },
-  {
    "id": "b93e67624aab",
    "title": "Supply Chain Planning Expert Professional",
    "company": "Hitachi Energy",
@@ -2410,23 +2427,6 @@
    "new": false
   },
   {
-   "id": "dd9111bffb86",
-   "title": "Material Planner",
-   "company": "Cyient",
-   "location": "Mysuru, India",
-   "url": "https://www.naukri.com/job-listings-material-planner-cyient-mysuru-3-to-6-years-030726028612",
-   "source": "naukri",
-   "sources": [
-    "naukri"
-   ],
-   "posted": "2026-11-08",
-   "remote": false,
-   "first_seen": "2026-11-01",
-   "last_seen": "2026-11-09",
-   "score": 40,
-   "new": false
-  },
-  {
    "id": "74c5ef844478",
    "title": "Parts Planner",
    "company": "Vantek India Associates",
@@ -2439,6 +2439,23 @@
    "posted": "2026-11-08",
    "remote": false,
    "first_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
+   "score": 40,
+   "new": false
+  },
+  {
+   "id": "dd9111bffb86",
+   "title": "Material Planner",
+   "company": "Cyient",
+   "location": "Mysuru, India",
+   "url": "https://www.naukri.com/job-listings-material-planner-cyient-mysuru-3-to-6-years-030726028612",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-01",
    "last_seen": "2026-11-09",
    "score": 40,
    "new": false
