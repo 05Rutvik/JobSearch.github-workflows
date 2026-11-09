@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09 14:48 IST",
+ "updated": "2026-11-09 15:39 IST",
  "today": "2026-11-09",
- "total": 228,
+ "total": 232,
  "status": [
   {
    "source": "Anaplan",
@@ -12,7 +12,7 @@
   {
    "source": "linkedin",
    "ok": true,
-   "count": 100,
+   "count": 125,
    "error": ""
   },
   {
@@ -71,7 +71,7 @@
    "posted": "2026-11-02",
    "remote": false,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "score": 85,
    "new": false
   },
@@ -157,9 +157,77 @@
    "posted": "2026-10-28",
    "remote": false,
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-08",
+   "last_seen": "2026-11-09",
    "score": 68,
    "new": false
+  },
+  {
+   "id": "f9d0da21f060",
+   "title": "Lead Functional Consultant - Infor WMS",
+   "company": "Epam Systems",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-lead-functional-consultant-infor-wms-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-061126026170",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "e176781ae983",
+   "title": "Lead Infor WMS Functional Consultant",
+   "company": "Epam Systems",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-lead-infor-wms-functional-consultant-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-061126026168",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "c90a92437a0b",
+   "title": "Middle Functional Consultant - Infor WMS Consultant",
+   "company": "Epam Systems",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-middle-functional-consultant-infor-wms-consultant-epam-systems-hyderabad-chennai-bengaluru-3-to-8-years-061126026172",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "65f86472dfa1",
+   "title": "Middle Functional Consultant, Infor WMS (Rollout)",
+   "company": "Epam Systems",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-middle-functional-consultant-infor-wms-rollout-epam-systems-hyderabad-chennai-bengaluru-3-to-8-years-061126026175",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-09",
+   "remote": false,
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "score": 63,
+   "new": true
   },
   {
    "id": "a38ac2b006d8",
