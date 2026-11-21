@@ -14,8 +14,18 @@ max_age_days: 14              # ignore jobs posted longer ago
 
 # A job must contain one of these in its TITLE to be kept (regex, case-insensitive)
 strong_keywords: ["assortment", "merchandis\\w* (financial )?plan", "\\bmfp\\b", "\\bo9\\b", "retail planning", "category planning", "allocation planning"]
-good_keywords:   ["demand planning", "supply chain planning", "\\bplanning\\b", "planner", "forecast", "inventory", "replenishment", "functional consultant", "solution consultant", "implementation consultant"]
-exclude_title: ["intern", "trainee", "apprentice", "\\bdirector\\b", "\\bvp\\b", "vice president", "\\bhead of\\b", "\\bchief\\b", "visual merchandis", "digital merchandis", "\\bbuying\\b", "\\bbuyer\\b", "store manager"]
+good_keywords:   ["demand planning", "supply chain", "\\bplanning\\b", "planner", "forecast", "inventory", "replenishment", "functional consultant", "solution consultant", "implementation consultant"]
+
+# Titles containing these are dropped
+exclude_title: ["intern", "trainee", "apprentice", "\\bdirector\\b", "\\bvp\\b", "vice president", "\\bhead of\\b", "\\bchief\\b", "principal", "senior manager", "sr\\.? manager", "associate director", "general manager", "\\bgm\\b", "architect", "visual merchandis", "digital merchandis", "\\bbuying\\b", "\\bbuyer\\b", "store manager"]
+
+# Drop jobs whose stated required experience is MORE than this many years
+max_experience_years: 5
+
+# Also search each of these companies directly (competitors / retail / consulting).
+# Searched as "<company> planning" on LinkedIn, Indeed and Naukri.
+company_search_suffix: planning
+company_searches: ["Impact Analytics", "Oracle", "Blue Yonder", "Kinaxis", "SAP", "o9 Solutions", "Flipkart", "Myntra", "Walmart", "Amazon", "Ralph Lauren", "Nike", "Target", "Accenture", "Deloitte", "Reliance Retail"]
 
 # Preferred seniority words (small score bonus)
 seniority_good: ["senior", "lead", "consultant", "manager", "specialist", "associate", "analyst"]
@@ -24,7 +34,7 @@ seniority_good: ["senior", "lead", "consultant", "manager", "specialist", "assoc
 locations: ["bengaluru", "bangalore", "remote", "hybrid", "india"]
 
 # Companies you care about: get a score boost (any source)
-priority_companies: ["o9", "ralph lauren", "kinaxis", "blue yonder", "anaplan", "oracle", "sap", "accenture", "deloitte", "pwc", "ey", "kpmg", "mckinsey", "bcg", "bain", "walmart", "target", "nike", "adidas", "levi", "h&m", "inditex", "lululemon", "tata", "reliance", "myntra", "flipkart", "amazon"]
+priority_companies: ["o9", "impact analytics", "ralph lauren", "kinaxis", "blue yonder", "anaplan", "oracle", "sap", "accenture", "deloitte", "pwc", "ey", "kpmg", "mckinsey", "bcg", "bain", "walmart", "target", "nike", "adidas", "levi", "h&m", "inditex", "lululemon", "tata", "reliance", "myntra", "flipkart", "amazon"]
 
 # Which job boards to scrape (each one is optional; a blocked one just returns nothing)
 boards: [linkedin, indeed, naukri, glassdoor, google]
