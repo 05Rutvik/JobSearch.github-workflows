@@ -3,6 +3,8 @@
 import argparse, hashlib, json, math, os, re, sys, time
 from datetime import date, datetime, timedelta, timezone
 
+from html import unescape as html_unescape
+
 import requests
 import yaml
 
@@ -81,6 +83,35 @@ def workday_posted(text):
     return ""
 
 
+EXP_RANGE = re.compile(r"(\d{1,2})\s*(?:-|–|—|to)\s*(\d{1,2})\s*\+?\s*(?:years?|yrs?)", re.I)
+EXP_SINGLE = re.compile(r"(\d{1,2})\s*\+?\s*(?:years?|yrs?)", re.I)
+
+
+def _exp_scan(text, need_ctx):
+    for m in EXP_RANGE.finditer(text):
+        ctx = text[max(0, m.start() - 60): m.end() + 60].lower()
+        lo, hi = int(m.group(1)), int(m.group(2))
+        if (not need_ctx or "experience" in ctx or "exp" in ctx) and lo <= hi <= 40:
+            return lo, f"{lo}-{hi} yrs"
+    for m in EXP_SINGLE.finditer(text):
+        ctx = text[max(0, m.start() - 60): m.end() + 60].lower()
+        n = int(m.group(1))
+        if (not need_ctx or "experience" in ctx or "exp" in ctx) and n <= 40:
+            return n, f"{n}+ yrs"
+    return None, ""
+
+
+def exp_info(desc="", field=""):
+    """Headline experience requirement. `field` = a dedicated experience field (trusted);
+    `desc` = free text (needs the word 'experience' nearby). Returns (min_years or None, label)."""
+    f = clean(field)
+    if f:
+        r = _exp_scan(f, False)
+        if r[0] is not None:
+            return r
+    return _exp_scan(clean(desc), True)
+
+
 def parse_board(text):
     m = WD_RE.search(text)
     if m:
@@ -121,22 +152,25 @@ def fetch_workday(tenant, wd, site):
 
 
 def fetch_greenhouse(slug):
-    d = http("GET", f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs").json()
+    d = http("GET", f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true").json()
     return [{"title": j.get("title", ""), "location": (j.get("location") or {}).get("name", ""),
              "url": j.get("absolute_url", ""),
-             "posted": to_date(j.get("first_published") or j.get("updated_at"))} for j in d.get("jobs", [])]
+             "posted": to_date(j.get("first_published") or j.get("updated_at")),
+             "desc": re.sub(r"<[^>]+>", " ", html_unescape(j.get("content", "")))} for j in d.get("jobs", [])]
 
 
 def fetch_lever(slug):
     d = http("GET", f"https://api.lever.co/v0/postings/{slug}?mode=json").json()
     return [{"title": j.get("text", ""), "location": (j.get("categories") or {}).get("location", "") or "",
-             "url": j.get("hostedUrl", ""), "posted": to_date(j.get("createdAt"))} for j in d]
+             "url": j.get("hostedUrl", ""), "posted": to_date(j.get("createdAt")),
+             "desc": j.get("descriptionPlain", "") or ""} for j in d]
 
 
 def fetch_ashby(slug):
     d = http("GET", f"https://api.ashbyhq.com/posting-api/job-board/{slug}").json()
     return [{"title": j.get("title", ""), "location": j.get("location", "") or "",
-             "url": j.get("jobUrl", ""), "posted": to_date(j.get("publishedAt"))} for j in d.get("jobs", [])]
+             "url": j.get("jobUrl", ""), "posted": to_date(j.get("publishedAt")),
+             "desc": j.get("descriptionPlain", "") or ""} for j in d.get("jobs", [])]
 
 
 ATS = {"workday": fetch_workday, "greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby}
@@ -176,7 +210,8 @@ def df_to_rows(df, site):
             continue
         loc = clean(r.get("location"))
         rem = r.get("is_remote")
-        rows.append({"title": title, "company": clean(r.get(ccol)) if ccol else "",
+        lo, label = exp_info(clean(r.get("description"))[:6000], r.get("experience_range"))
+        rows.append({"exp_min": lo, "exp": label, "title": title, "company": clean(r.get(ccol)) if ccol else "",
                      "location": loc, "url": url, "posted": to_date(r.get("date_posted")),
                      "source": clean(r.get("site")) or site,
                      "remote": rem is True or clean(rem).lower() == "true"})
@@ -190,9 +225,14 @@ def collect_boards(cfg, scrape=None):
     loc = cfg.get("search_location", "India")
     n = int(cfg.get("results_per_search", 25))
     hours = int(cfg.get("max_age_days", 14)) * 24
+    suffix = cfg.get("company_search_suffix", "planning")
+    comp_terms = [f"{c} {suffix}".strip() for c in cfg.get("company_searches") or []]
     for site in cfg.get("boards") or []:
         got, err = 0, ""
-        for term in cfg.get("searches") or []:
+        terms = list(cfg.get("searches") or [])
+        if site in ("linkedin", "indeed", "naukri"):
+            terms += comp_terms
+        for term in terms:
             kw = dict(site_name=[site], search_term=term, location=loc, results_wanted=n,
                       hours_old=hours, country_indeed="India", verbose=0)
             if site == "google":
@@ -262,6 +302,7 @@ def process(raw, cfg, prev_jobs):
     locs = rx(cfg.get("locations"))
     prio = [re.compile(r"\b" + re.escape(c) + r"\b", re.I) for c in (cfg.get("priority_companies") or [])]
     max_age = int(cfg.get("max_age_days", 14))
+    max_exp = int(cfg.get("max_experience_years", 5))
     t = today()
     prev = {j["id"]: j for j in prev_jobs}
     found = {}
@@ -272,6 +313,10 @@ def process(raw, cfg, prev_jobs):
         if not (any(p.search(j["title"]) for p in strong) or any(p.search(j["title"]) for p in good)):
             continue
         if any(p.search(j["title"]) for p in excl):
+            continue
+        if "exp" not in j:
+            j["exp_min"], j["exp"] = exp_info(j.get("desc", "")[:6000])
+        if j.get("exp_min") is not None and j["exp_min"] > max_exp:
             continue
         if locs and j["location"] and not any(p.search(j["location"]) for p in locs) and not j.get("remote"):
             continue
@@ -293,7 +338,7 @@ def process(raw, cfg, prev_jobs):
             continue
         found[jid] = {"id": jid, "title": j["title"], "company": j["company"], "location": j["location"],
                       "url": j["url"], "source": j["source"], "sources": [j["source"]],
-                      "posted": j.get("posted", ""), "remote": bool(j.get("remote")) or "remote" in j["location"].lower()}
+                      "posted": j.get("posted", ""), "exp": j.get("exp", ""), "remote": bool(j.get("remote")) or "remote" in j["location"].lower()}
     now = t.isoformat()
     for jid, j in found.items():
         old = prev.get(jid)
