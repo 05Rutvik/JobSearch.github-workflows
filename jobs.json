@@ -1,5 +1,2029 @@
 {
-  "updated": "",
-  "jobs": [],
-  "status": []
+ "updated": "2026-11-21 22:24 IST",
+ "today": "2026-11-21",
+ "total": 110,
+ "status": [
+  {
+   "source": "Anaplan",
+   "ok": true,
+   "count": 123,
+   "error": ""
+  },
+  {
+   "source": "linkedin",
+   "ok": true,
+   "count": 425,
+   "error": ""
+  },
+  {
+   "source": "indeed",
+   "ok": true,
+   "count": 282,
+   "error": ""
+  },
+  {
+   "source": "naukri",
+   "ok": true,
+   "count": 456,
+   "error": ""
+  },
+  {
+   "source": "glassdoor",
+   "ok": false,
+   "count": 0,
+   "error": "no results"
+  },
+  {
+   "source": "google",
+   "ok": false,
+   "count": 0,
+   "error": "no results"
+  }
+ ],
+ "jobs": [
+  {
+   "id": "08c7ba30cce9",
+   "title": "Merchandise Planner",
+   "company": "Reliance Retail",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-merchandise-planner-reliance-retail-bengaluru-3-to-8-years-191126013618",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-19",
+   "exp": "3-8 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 82,
+   "new": true
+  },
+  {
+   "id": "5abace2ee9a5",
+   "title": "O9/Kinaxis consultant",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4475157006",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 78,
+   "new": true
+  },
+  {
+   "id": "a26661ec6333",
+   "title": "Integration Consultant o9",
+   "company": "NTT DATA North America",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492467023",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 78,
+   "new": true
+  },
+  {
+   "id": "52ad5d4d9115",
+   "title": "Associate Planner",
+   "company": "Target",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-associate-planner-target-bengaluru-2-to-4-years-201126014716",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-20",
+   "exp": "2-4 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 75,
+   "new": true
+  },
+  {
+   "id": "3105a489b18d",
+   "title": "Supply Chain Operations Analyst",
+   "company": "Accenture",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-supply-chain-operations-analyst-accenture-solutions-pvt-ltd-bengaluru-3-to-5-years-201126917233",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-20",
+   "exp": "3-5 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 75,
+   "new": true
+  },
+  {
+   "id": "3e7d28590915",
+   "title": "Supply Chain Operations Associate",
+   "company": "Accenture",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-supply-chain-operations-associate-accenture-solutions-pvt-ltd-bengaluru-1-to-3-years-201126917230",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-20",
+   "exp": "1-3 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 75,
+   "new": true
+  },
+  {
+   "id": "72843789ecab",
+   "title": "Supply Chain Operations Senior Analyst",
+   "company": "Accenture",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-supply-chain-operations-senior-analyst-accenture-solutions-pvt-ltd-bengaluru-5-to-8-years-201126917240",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-20",
+   "exp": "5-8 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 75,
+   "new": true
+  },
+  {
+   "id": "9e0ace8e2cdf",
+   "title": "Capability Lead Planning & Inventory Management",
+   "company": "Target in India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491473896",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 70,
+   "new": true
+  },
+  {
+   "id": "91b6f0bdbb0a",
+   "title": "Immediate Hiring For O9 Developer/Tester",
+   "company": "Tech Mahindra",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-immediate-hiring-for-o9-developer-tester-tech-mahindra-hyderabad-chennai-bengaluru-4-to-9-years-181126037222",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-18",
+   "exp": "4-9 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 70,
+   "new": true
+  },
+  {
+   "id": "692af45e3dcb",
+   "title": "Analyst | S&P - Cost TakeOut | Bengaluru | Supply Chain & Network Operations",
+   "company": "Deloitte",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=f5200eea96e7af0b",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-19",
+   "exp": "0-2 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 70,
+   "new": true
+  },
+  {
+   "id": "0dc19c18aba4",
+   "title": "Financial Planning & Analysis Analyst",
+   "company": "Ralph Lauren",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491358883",
+   "source": "linkedin",
+   "sources": [
+    "linkedin",
+    "indeed"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 70,
+   "new": true
+  },
+  {
+   "id": "f22f9c337c1e",
+   "title": "Maintenance Engineering Planner, RME India, INRME",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4476959177",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 67,
+   "new": true
+  },
+  {
+   "id": "67f886181368",
+   "title": "Support Engineer -  BY/JDA Enterprise Supply Chain Planning(ESP)",
+   "company": "Blue Yonder",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4431480969",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 67,
+   "new": true
+  },
+  {
+   "id": "9575a6a54d6b",
+   "title": "Lead Financial Analyst (FP&A) - CAPEX Planning, Pricing and Marginal Cost Modelling (US Shift)",
+   "company": "Oracle",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4481017767",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-14",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 65,
+   "new": true
+  },
+  {
+   "id": "89f255020b13",
+   "title": "Planning Lead & Reporting",
+   "company": "Myntra",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4490293819",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-16",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 65,
+   "new": true
+  },
+  {
+   "id": "ea691b4ff662",
+   "title": "SAC planning senior",
+   "company": "EY",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4474036557",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 65,
+   "new": true
+  },
+  {
+   "id": "f2320608b343",
+   "title": "SAP SAC Planning-Manager",
+   "company": "EY",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4490466480",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 65,
+   "new": true
+  },
+  {
+   "id": "0205ac356ed6",
+   "title": "Support Engineer - BY/JDA ESP (Enterprise Supply Chain Planning) Techno-Functional Consultant &PLQL",
+   "company": "Blue Yonder",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4459782433",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 65,
+   "new": true
+  },
+  {
+   "id": "08c846de0d4a",
+   "title": "Integration Consultant o9",
+   "company": "NTT DATA",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=17ba0d0352f24ce5",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-19",
+   "exp": "2+ yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "c0d10a8cadf3",
+   "title": "Associate - Property Delivery Planning",
+   "company": "Tesco Bengaluru",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492574368",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "f3ba93684ce9",
+   "title": "Ralph Lauren Financial Planning & Analysis Analyst",
+   "company": "BoF Careers",
+   "location": "Bangalore Urban, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492534918",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "51bc931d33fb",
+   "title": "S&C Global Network - AI - Supply Chain Analytics - Consultant",
+   "company": "Archer",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492546934",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "30641cd2da8c",
+   "title": "Senior Associate Engineer - Production Planning",
+   "company": "Collins Aerospace",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492965461",
+   "source": "linkedin",
+   "sources": [
+    "linkedin",
+    "indeed"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "a8588ab7fa54",
+   "title": "Supply Chain Manager",
+   "company": "Thales",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4484947366",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "1248ad1c9385",
+   "title": "SAP PPQM Functional Consultant",
+   "company": "Capgemini",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4493269009",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-21",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "574cdd22c7fa",
+   "title": "Senior Functional Consultant - Oracle Fusion Financials",
+   "company": "Epam Systems",
+   "location": "Bengaluru, Hyderabad, Chennai, India",
+   "url": "https://www.naukri.com/job-listings-senior-functional-consultant-oracle-fusion-financials-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-121026010502",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-21",
+   "exp": "5-8 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "ae5513927562",
+   "title": "Supply Chain Planning Analyst",
+   "company": "EOS IT Solutions",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492879357",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-21",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": true
+  },
+  {
+   "id": "1cab1cd76fbf",
+   "title": "Oracle Demand and Supply Planning",
+   "company": "Deloitte",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491870346",
+   "source": "linkedin",
+   "sources": [
+    "linkedin",
+    "indeed"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 62,
+   "new": true
+  },
+  {
+   "id": "4e490ac2767d",
+   "title": "PM - Inbound Planning, S&OP",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4476173919",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 62,
+   "new": true
+  },
+  {
+   "id": "f226d8199619",
+   "title": "SAP Analytics Cloud Planning - Senior Associate",
+   "company": "PwC Acceleration Center India",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4478261804",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-09",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 60,
+   "new": true
+  },
+  {
+   "id": "11c6f133953f",
+   "title": "Senior Financial Planning Analyst (FP&A)",
+   "company": "Oracle",
+   "location": "Greater Bengaluru Area",
+   "url": "https://www.linkedin.com/jobs/view/4487133339",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-09",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 60,
+   "new": true
+  },
+  {
+   "id": "b38cc5213d8a",
+   "title": "Senior Functional Consultant Retail",
+   "company": "o9 Solutions, Inc.",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4488824779",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-09",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 60,
+   "new": true
+  },
+  {
+   "id": "a3c91c7f3321",
+   "title": "Senior Operations Executive, Supply Chain",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4489984880",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-11",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 60,
+   "new": true
+  },
+  {
+   "id": "0a4371235b3e",
+   "title": "Associate - Planning",
+   "company": "Myntra",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4490391475",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 60,
+   "new": true
+  },
+  {
+   "id": "fb727fc1afa1",
+   "title": "Lead Associate - Planning",
+   "company": "Myntra",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4489097460",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 60,
+   "new": true
+  },
+  {
+   "id": "4614578c7a8a",
+   "title": "Manager – Kinaxis Maestro - Integrated Planning",
+   "company": "PwC Acceleration Center India",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4472603558",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 60,
+   "new": true
+  },
+  {
+   "id": "59a1e4374e83",
+   "title": "Product Manager | Inventory Health Product, Amazon Now",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4455779902",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 60,
+   "new": true
+  },
+  {
+   "id": "32ca83793a1b",
+   "title": "Functional Consultant _Supply Planning (D406)",
+   "company": "algoleap",
+   "location": "Bangalore North Rural, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4482298924",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "134ad5930b4e",
+   "title": "Functional Consultant_Demand Planning_Retail(D410)",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4484428863",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "8b591eabcb47",
+   "title": "Manager - Supply Planning",
+   "company": "Pentland Brands",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491808184",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "5433bf60038f",
+   "title": "Senior Planning Advisor - Dry Utilities Engineer",
+   "company": "WSP in India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4466187216",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "812412fca46d",
+   "title": "Sr. Production Planning Manager",
+   "company": "Merck Life Science",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4476548970",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "e7b4d32278db",
+   "title": "Lead Supply Chain Analyst II [T500-30603]",
+   "company": "ANSR",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4487229855",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "dc34c6a4d615",
+   "title": "Manager I Supply Chain Network Analytics [T500-30604]",
+   "company": "ANSR",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4487235483",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "5c23d6a8a74a",
+   "title": "Manager Supply Chain Analytics [T500-30602]",
+   "company": "ANSR",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4487232550",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "74fa20195624",
+   "title": "Planning and Digitization leader",
+   "company": "Search Ends (Search Advisors Services Pvt Ltd)",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492400055",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "7a11d891c4ae",
+   "title": "SAC Planning and Reporting Consultant",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4484144166",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "bc2978ca71b0",
+   "title": "Senior Capacity Planning Manager",
+   "company": "Akamai Technologies",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492421059",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "b6d0ecdd2669",
+   "title": "Success Planning Manager",
+   "company": "Lenovo",
+   "location": "Bangalore Urban, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492290490",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
+  },
+  {
+   "id": "c9c7a16604f9",
+   "title": "Sr. Planning & Ops Mgr, SIMS",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4484071092",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 57,
+   "new": true
+  },
+  {
+   "id": "e197452aa782",
+   "title": "Oracle Cloud Supply Chain + Manufacturing-Consultant",
+   "company": "Deloitte",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=50eac1d42e378293",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-18",
+   "exp": "3-6 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 55,
+   "new": true
+  },
+  {
+   "id": "b40dc886c795",
+   "title": "SAP PRODUCTION PLANNING",
+   "company": "InfoSpeed Services, Inc.",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492771693",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 55,
+   "new": true
+  },
+  {
+   "id": "2ae3fd571bd1",
+   "title": "Supply Chain - Financial Planning & Analysis - Bangalore",
+   "company": "HCLTech",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-supply-chain-financial-planning-analysis-bangalore-hcltech-bengaluru-5-to-10-years-041126022411",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-20",
+   "exp": "5-10 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 55,
+   "new": true
+  },
+  {
+   "id": "263644d5d844",
+   "title": "AMS Cloud EPM Planning Consultant",
+   "company": "Peloton Consulting Group",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4474553030",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-14",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 53,
+   "new": true
+  },
+  {
+   "id": "03c9237e824d",
+   "title": "Implementation Consultant and Integration Developer",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4473854834",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-14",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 53,
+   "new": true
+  },
+  {
+   "id": "d671c4063a21",
+   "title": "Manager - Financial Planning and Analysis",
+   "company": "slice",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4490660209",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-16",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 53,
+   "new": true
+  },
+  {
+   "id": "cb3943f58403",
+   "title": "Manager- Planning",
+   "company": "Collins Aerospace",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4490292637",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-16",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 53,
+   "new": true
+  },
+  {
+   "id": "fa9fcf23d2da",
+   "title": "Senior Staff - Supply Planning",
+   "company": "Enphase Energy",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491556228",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 53,
+   "new": true
+  },
+  {
+   "id": "630afab96725",
+   "title": "Staff Analyst, Supply Planning",
+   "company": "Enphase Energy",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491540950",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 53,
+   "new": true
+  },
+  {
+   "id": "6bdf9b8fd8e3",
+   "title": "Sr. Strategic Planner, Ads Trust Support",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4471888873",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-07",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 52,
+   "new": true
+  },
+  {
+   "id": "72719895e326",
+   "title": "Planning & Ops Mgr, SIMS",
+   "company": "Amazon",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4489463431",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-10",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 52,
+   "new": true
+  },
+  {
+   "id": "489cb18d3032",
+   "title": "Assoicate - Integrated Planning",
+   "company": "PwC Acceleration Center India",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4488928501",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 52,
+   "new": true
+  },
+  {
+   "id": "ed93242fa96b",
+   "title": "Production Planner Engineer",
+   "company": "Tata Electronics",
+   "location": "Kolar, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483447070",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 52,
+   "new": true
+  },
+  {
+   "id": "6551a018ab02",
+   "title": "Inventory Planning & Pricing Head",
+   "company": "Startup",
+   "location": "Bangalore Urban, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491839415",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 50,
+   "new": true
+  },
+  {
+   "id": "87933f2b52f8",
+   "title": "PLANNER – SPORTS APPAREL & FOOTWEAR",
+   "company": "Westbury Sportswear",
+   "location": "Bangalore Urban district, India",
+   "url": "https://www.linkedin.com/jobs/view/4491814003",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 50,
+   "new": true
+  },
+  {
+   "id": "1b58c782c7db",
+   "title": "SCM - Demand Planning Professional",
+   "company": "Siemens Healthineers",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491301966",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 50,
+   "new": true
+  },
+  {
+   "id": "c3cc6eac05c9",
+   "title": "Executive - Retail Merchandising | Planning",
+   "company": "Titan Company",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-executive-retail-merchandising-planning-titan-company-bengaluru-1-to-5-years-191126027230",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-19",
+   "exp": "1-5 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 50,
+   "new": true
+  },
+  {
+   "id": "5028db4e6d21",
+   "title": "IND_Demand Planner",
+   "company": "Lowe's India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4475449740",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 50,
+   "new": true
+  },
+  {
+   "id": "4ddf98d07618",
+   "title": "Manager - Demand Planner",
+   "company": "DIAGEO India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4445205282",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-08",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "06e2c37dafc2",
+   "title": "WFM Resource Planning Analyst",
+   "company": "ResultsCX",
+   "location": "Greater Bengaluru Area",
+   "url": "https://www.linkedin.com/jobs/view/4436436641",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-08",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "1b4b3dd6af56",
+   "title": "Assistant Manager - Demand/Commercial Planning (Logistics)",
+   "company": "AB InBev",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4488317548",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-10",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "d59b7af3b262",
+   "title": "Blue Yonder ESP Functional Consultant",
+   "company": "GeekSoft Consulting",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4488679971",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-10",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "f579faebdfce",
+   "title": "Sales Planning Manager",
+   "company": "Tally Solutions Pvt Ltd",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4488653891",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-11",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "a180a8009d56",
+   "title": "Senior Planning Analyst",
+   "company": "Blissclub",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4483639117",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-11",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "6e2a26d6348a",
+   "title": "Oracle Cloud Planning Consultant",
+   "company": "Infosys",
+   "location": "Bengaluru East, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4472550835",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "8c92e204ed6b",
+   "title": "Blue Yonder TMS functional consultant",
+   "company": "UST",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=1da61547390f5f32",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "4867c1d511c2",
+   "title": "Lead Data Scientist - Demand Forecasting &amp; Optimization",
+   "company": "SymphonyAI",
+   "location": "Bagalur, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4492765008",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
+  },
+  {
+   "id": "c570dd23205a",
+   "title": "Operations Sr Workforce Planner, Prime Video Shared Services",
+   "company": "Amazon.com",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=9ee22838c57f98e5",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-18",
+   "exp": "3+ yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 47,
+   "new": true
+  },
+  {
+   "id": "18253353e937",
+   "title": "Oracle Supply Chain with Cost Management",
+   "company": "Deloitte",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=f31e7cf1f3577b8e",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-18",
+   "exp": "3-6 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 47,
+   "new": true
+  },
+  {
+   "id": "5b5f0f475c60",
+   "title": "Senior Operations Executive, Supply Chain",
+   "company": "Amazon.com",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=fac9dc3e1c1dfc31",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-11",
+   "exp": "1+ yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 45,
+   "new": true
+  },
+  {
+   "id": "0180f73290a7",
+   "title": "Functional Consultant  Supply Planning",
+   "company": "Instaserve Business Services",
+   "location": "India",
+   "url": "https://www.naukri.com/job-listings-functional-consultant-supply-planning-instaserve-business-services-bengaluru-2-to-5-years-141126013719",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-14",
+   "exp": "2-5 yrs",
+   "remote": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 45,
+   "new": true
+  },
+  {
+   "id": "aedc5f429a79",
+   "title": "Micro Space Planning- Retail Domain Bangalore",
+   "company": "Teamplus Staffing Solution",
+   "location": "Bengaluru(Bellandur), India",
+   "url": "https://www.naukri.com/job-listings-micro-space-planning-retail-domain-bangalore-teamplus-staffing-solution-bengaluru-5-to-10-years-141126010242",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-14",
+   "exp": "5-10 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 45,
+   "new": true
+  },
+  {
+   "id": "1a70bc4618ac",
+   "title": "Supply Chain Planner",
+   "company": "Sandisk",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491091393",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-14",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 45,
+   "new": true
+  },
+  {
+   "id": "b6ffae7d6c52",
+   "title": "AM, Supply Planning",
+   "company": "Licious",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4491126866",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 45,
+   "new": true
+  },
+  {
+   "id": "56b1919c081a",
+   "title": "Production Planner - Expert",
+   "company": "Sartorius",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4470921408",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 45,
+   "new": true
+  },
+  {
+   "id": "4f3fcacda92a",
+   "title": "Production and Material Planner",
+   "company": "nVent",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4429967342",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-17",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 45,
+   "new": true
+  },
+  {
+   "id": "7354b76e7318",
+   "title": "Associate II - Planning",
+   "company": "NewSpace",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=a2c90dcfea7a4d34",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-18",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 43,
+   "new": true
+  },
+  {
+   "id": "0a59041ec0f0",
+   "title": "Data Engineer II, Supply Chain Analytics",
+   "company": "Amazon.com",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=07b5e78235a51e38",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-17",
+   "exp": "3+ yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 42,
+   "new": true
+  },
+  {
+   "id": "03439ca2ed7f",
+   "title": "AGM – PMO (Planning)- NIGMA Institute of Construction ADDED ADVANTAGE",
+   "company": "Live Connections",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4488329458",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-10",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "f056acf74dfd",
+   "title": "Blue Yonder Inventory Optimization",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4433931744",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-10",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "4a5ba47d8ce7",
+   "title": "Production Planning Expert",
+   "company": "Merck Life Science",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4445948437",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-11",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "edf1bb03b9df",
+   "title": "AGM PMO Planning Residential Real Estate",
+   "company": "Live Connections",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4489077565",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "c1db836e9df5",
+   "title": "BY / JDA Demand Planning",
+   "company": "TecQubes Technologies",
+   "location": "Bengaluru, India",
+   "url": "https://www.naukri.com/job-listings-by-jda-demand-planning-tecqubes-technologies-bengaluru-5-to-10-years-121126014123",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-12",
+   "exp": "5-10 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "ffce994779af",
+   "title": "Blue Yonder Enterprise Supply Planning",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4433934739",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "9f4eba1ec257",
+   "title": "Business Planning and Analysis",
+   "company": "VBHC",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4489085722",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "a1f73bbc7f32",
+   "title": "Data Scientist - Demand Planning D430",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4488519404",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "9fb82e746119",
+   "title": "Primary Planner",
+   "company": "Applied Materials India",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4484377710",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "0e902676039f",
+   "title": "Production & Materials Planner",
+   "company": "nVent",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4482127414",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "5fe5096e6869",
+   "title": "Blue Yonder Demand Planning",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4433932754",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "46eccb1cbe58",
+   "title": "Blue Yonder Sales & Operations Planning",
+   "company": "algoleap",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4433945417",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "a02c20754175",
+   "title": "Supply Chain Integrated Business Planning",
+   "company": "HP",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4490749381",
+   "source": "linkedin",
+   "sources": [
+    "linkedin",
+    "indeed"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "8c69e9f0906a",
+   "title": "Supply and Inventory Planner",
+   "company": "Cargill",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4472993151",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "fbc0890df6ab",
+   "title": "System Engineer: Demand Planning and Supply",
+   "company": "Bridgestone Americas",
+   "location": "Bangalore Urban, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4463040198",
+   "source": "linkedin",
+   "sources": [
+    "linkedin"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "a5ba610e7be8",
+   "title": "Sales Co-Worker-Kitchen Planning",
+   "company": "IKEA",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=1f9374db41bd0d22",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": true
+  },
+  {
+   "id": "dac24fce02bf",
+   "title": "Planning & Ops Mgr, SIMS",
+   "company": "Amazon.com",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=bb54154136fbaf94",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-10",
+   "exp": "3+ yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 37,
+   "new": true
+  },
+  {
+   "id": "029ad3973542",
+   "title": "Planning Process System Expert",
+   "company": "HP",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=431b679ae67f01b8",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-18",
+   "exp": "1-3 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 35,
+   "new": true
+  },
+  {
+   "id": "867144d144bb",
+   "title": "Consultant Supply Chain Analytics",
+   "company": "HP",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=730db882a0463d9d",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-10",
+   "exp": "4-8 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 33,
+   "new": true
+  },
+  {
+   "id": "1207d4156e71",
+   "title": "Analyst - Financial Analysis, Home Lending Planning and Analysis",
+   "company": "JPMorganChase",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=cb2d8da2f342a627",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-11",
+   "exp": "2+ yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 33,
+   "new": true
+  },
+  {
+   "id": "c1c7f0152fdd",
+   "title": "Associate Consultant - ORC Supply Chain Proc-Plan",
+   "company": "Argano Software",
+   "location": "Hyderabad, India",
+   "url": "https://www.naukri.com/job-listings-associate-consultant-orc-supply-chain-proc-plan-keste-software-hyderabad-0-to-2-years-131126503358",
+   "source": "naukri",
+   "sources": [
+    "naukri"
+   ],
+   "posted": "2026-11-13",
+   "exp": "0-2 yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 33,
+   "new": true
+  },
+  {
+   "id": "09fcddeaab30",
+   "title": "Supply Chain Professional",
+   "company": "Brit Technology",
+   "location": "KA, India",
+   "url": "https://in.indeed.com/viewjob?jk=c5b507a303174a5c",
+   "source": "indeed",
+   "sources": [
+    "indeed"
+   ],
+   "posted": "2026-11-11",
+   "exp": "3+ yrs",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 25,
+   "new": true
+  }
+ ]
 }
