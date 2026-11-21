@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21 15:36 IST",
+ "updated": "2026-11-21 22:03 IST",
  "today": "2026-11-21",
- "total": 293,
+ "total": 295,
  "status": [
   {
    "source": "Anaplan",
@@ -12,7 +12,7 @@
   {
    "source": "linkedin",
    "ok": true,
-   "count": 96,
+   "count": 135,
    "error": ""
   },
   {
@@ -24,14 +24,14 @@
   {
    "source": "naukri",
    "ok": true,
-   "count": 104,
+   "count": 106,
    "error": ""
   },
   {
    "source": "glassdoor",
-   "ok": false,
-   "count": 0,
-   "error": "no results"
+   "ok": true,
+   "count": 83,
+   "error": ""
   },
   {
    "source": "google",
@@ -59,6 +59,24 @@
    "new": true
   },
   {
+   "id": "2bb03dc98e6b",
+   "title": "Integration Consultant o9",
+   "company": "NTT Ltd",
+   "location": "Bengaluru, India",
+   "url": "https://www.glassdoor.co.in/job-listing/j?jl=1010330956302",
+   "source": "glassdoor",
+   "sources": [
+    "glassdoor"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 83,
+   "new": true
+  },
+  {
    "id": "08c7ba30cce9",
    "title": "Merchandise Planner",
    "company": "Reliance Retail",
@@ -69,6 +87,7 @@
     "naukri"
    ],
    "posted": "2026-11-19",
+   "exp": "3-8 yrs",
    "remote": false,
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-21",
@@ -137,6 +156,7 @@
     "linkedin"
    ],
    "posted": "2026-11-19",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-21",
@@ -154,6 +174,7 @@
     "naukri"
    ],
    "posted": "2026-11-20",
+   "exp": "2-4 yrs",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-21",
@@ -188,6 +209,7 @@
     "linkedin"
    ],
    "posted": "2026-11-18",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-21",
@@ -205,6 +227,7 @@
     "naukri"
    ],
    "posted": "2026-11-18",
+   "exp": "4-9 yrs",
    "remote": false,
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-21",
@@ -273,6 +296,7 @@
     "naukri"
    ],
    "posted": "2026-11-20",
+   "exp": "2-5 yrs",
    "remote": false,
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
@@ -290,6 +314,7 @@
     "linkedin"
    ],
    "posted": "2026-11-21",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
@@ -307,6 +332,7 @@
     "linkedin"
    ],
    "posted": "2026-11-16",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-21",
@@ -341,11 +367,30 @@
     "indeed"
    ],
    "posted": "2026-11-19",
+   "exp": "2+ yrs",
    "remote": false,
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-21",
    "score": 63,
    "new": false
+  },
+  {
+   "id": "b6d0ecdd2669",
+   "title": "Success Planning Manager",
+   "company": "Lenovo",
+   "location": "Bengaluru, India",
+   "url": "https://www.glassdoor.co.in/job-listing/j?jl=1010330471579",
+   "source": "glassdoor",
+   "sources": [
+    "glassdoor"
+   ],
+   "posted": "2026-11-19",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 58,
+   "new": true
   },
   {
    "id": "e98f1dd85816",
@@ -365,6 +410,60 @@
    "new": false
   },
   {
+   "id": "5fc35ea67bd4",
+   "title": "Sr. SAP FICO / TRM Functional Consultant",
+   "company": "Kyndryl",
+   "location": "Bengaluru, India",
+   "url": "https://www.glassdoor.co.in/job-listing/j?jl=1010331413121",
+   "source": "glassdoor",
+   "sources": [
+    "glassdoor"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": false
+  },
+  {
+   "id": "169888d234d5",
+   "title": "Sr. SAP MM / EWM Functional Consultant",
+   "company": "Kyndryl",
+   "location": "Bengaluru, India",
+   "url": "https://www.glassdoor.co.in/job-listing/j?jl=1010331413145",
+   "source": "glassdoor",
+   "sources": [
+    "glassdoor"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": false
+  },
+  {
+   "id": "20f3210b97df",
+   "title": "Sr. SAP PP / QM / PLM / VC / WMS Functional Consultant",
+   "company": "Kyndryl",
+   "location": "Bengaluru, India",
+   "url": "https://www.glassdoor.co.in/job-listing/j?jl=1010331413150",
+   "source": "glassdoor",
+   "sources": [
+    "glassdoor"
+   ],
+   "posted": "2026-11-20",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
+   "score": 63,
+   "new": false
+  },
+  {
    "id": "574cdd22c7fa",
    "title": "Senior Functional Consultant - Oracle Fusion Financials",
    "company": "Epam Systems",
@@ -375,6 +474,7 @@
     "naukri"
    ],
    "posted": "2026-11-21",
+   "exp": "5-8 yrs",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-21",
@@ -389,12 +489,15 @@
    "url": "https://www.linkedin.com/jobs/view/4491870346",
    "source": "linkedin",
    "sources": [
-    "linkedin"
+    "linkedin",
+    "indeed",
+    "glassdoor"
    ],
    "posted": "2026-11-18",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "score": 62,
    "new": false
   },
@@ -495,6 +598,7 @@
     "linkedin"
    ],
    "posted": "2026-11-09",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-09",
    "last_seen": "2026-11-21",
@@ -512,9 +616,10 @@
     "linkedin"
    ],
    "posted": "2026-11-12",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-21",
    "score": 60,
    "new": false
   },
@@ -529,9 +634,10 @@
     "linkedin"
    ],
    "posted": "2026-11-12",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "score": 60,
    "new": false
   },
@@ -546,6 +652,7 @@
     "linkedin"
    ],
    "posted": "2026-11-12",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-21",
@@ -580,9 +687,10 @@
     "linkedin"
    ],
    "posted": "2026-11-18",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-10-31",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "score": 58,
    "new": false
   },
@@ -597,6 +705,7 @@
     "linkedin"
    ],
    "posted": "2026-11-18",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-02",
    "last_seen": "2026-11-21",
@@ -611,9 +720,11 @@
    "url": "https://www.linkedin.com/jobs/view/4491808184",
    "source": "linkedin",
    "sources": [
-    "linkedin"
+    "linkedin",
+    "glassdoor"
    ],
    "posted": "2026-11-18",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-21",
@@ -665,9 +776,10 @@
     "linkedin"
    ],
    "posted": "2026-11-19",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "score": 58,
    "new": false
   },
@@ -716,6 +828,7 @@
     "naukri"
    ],
    "posted": "2026-11-19",
+   "exp": "1-5 yrs",
    "remote": false,
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
@@ -750,11 +863,30 @@
     "naukri"
    ],
    "posted": "2026-11-20",
+   "exp": "5-10 yrs",
    "remote": false,
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-21",
    "score": 55,
    "new": false
+  },
+  {
+   "id": "40f73cec6ef4",
+   "title": "Lead Data Scientist – Demand Forecasting & Optimization",
+   "company": "SymphonyAI",
+   "location": "Bengaluru, India",
+   "url": "https://www.glassdoor.co.in/job-listing/j?jl=1010323958965",
+   "source": "glassdoor",
+   "sources": [
+    "glassdoor"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "score": 48,
+   "new": true
   },
   {
    "id": "bd3b56c77660",
@@ -900,9 +1032,11 @@
    "url": "https://www.linkedin.com/jobs/view/4490292637",
    "source": "linkedin",
    "sources": [
-    "linkedin"
+    "linkedin",
+    "glassdoor"
    ],
    "posted": "2026-11-16",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-21",
@@ -1005,6 +1139,7 @@
     "linkedin"
    ],
    "posted": "2026-11-17",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-21",
@@ -1022,6 +1157,7 @@
     "linkedin"
    ],
    "posted": "2026-11-17",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-21",
@@ -1039,6 +1175,7 @@
     "indeed"
    ],
    "posted": "2026-11-20",
+   "exp": "4-6 yrs",
    "remote": false,
    "first_seen": "2026-11-21",
    "last_seen": "2026-11-21",
@@ -1056,6 +1193,7 @@
     "linkedin"
    ],
    "posted": "2026-11-13",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-21",
@@ -1090,6 +1228,7 @@
     "linkedin"
    ],
    "posted": "2026-11-18",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-21",
@@ -1175,6 +1314,7 @@
     "linkedin"
    ],
    "posted": "2026-11-18",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-21",
@@ -1190,9 +1330,10 @@
    "source": "linkedin",
    "sources": [
     "linkedin",
-    "indeed"
+    "glassdoor"
    ],
    "posted": "2026-11-18",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-19",
    "last_seen": "2026-11-21",
@@ -1210,6 +1351,7 @@
     "linkedin"
    ],
    "posted": "2026-11-19",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-10-30",
    "last_seen": "2026-11-21",
@@ -1958,6 +2100,7 @@
     "linkedin"
    ],
    "posted": "2026-11-08",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-21",
@@ -2077,6 +2220,7 @@
     "linkedin"
    ],
    "posted": "2026-11-10",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-21",
@@ -2111,9 +2255,10 @@
     "linkedin"
    ],
    "posted": "2026-11-11",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-21",
    "score": 48,
    "new": false
   },
@@ -2128,6 +2273,7 @@
     "linkedin"
    ],
    "posted": "2026-11-11",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-21",
@@ -2199,6 +2345,24 @@
    "remote": false,
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
+   "score": 48,
+   "new": false
+  },
+  {
+   "id": "a1f1a209b29c",
+   "title": "SAP IBP Consultant (Demand & Supply Planning)",
+   "company": "Sainik Zone",
+   "location": "Bengaluru, India",
+   "url": "https://www.glassdoor.co.in/job-listing/j?jl=1010324213082",
+   "source": "glassdoor",
+   "sources": [
+    "glassdoor"
+   ],
+   "posted": "2026-11-12",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-21",
    "score": 48,
    "new": false
   },
@@ -2315,6 +2479,7 @@
     "linkedin"
    ],
    "posted": "2026-11-20",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-21",
@@ -2339,57 +2504,6 @@
    "new": false
   },
   {
-   "id": "5fc35ea67bd4",
-   "title": "Sr. SAP FICO / TRM Functional Consultant",
-   "company": "Kyndryl",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=4cda4a85c9e60a3e",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-11-20",
-   "remote": false,
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-21",
-   "score": 48,
-   "new": false
-  },
-  {
-   "id": "169888d234d5",
-   "title": "Sr. SAP MM / EWM Functional Consultant",
-   "company": "Kyndryl",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=d4c8f8440d2e7d24",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-11-20",
-   "remote": false,
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-21",
-   "score": 48,
-   "new": false
-  },
-  {
-   "id": "20f3210b97df",
-   "title": "Sr. SAP PP / QM / PLM / VC / WMS Functional Consultant",
-   "company": "Kyndryl",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=25982bac419d5338",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-11-20",
-   "remote": false,
-   "first_seen": "2026-11-20",
-   "last_seen": "2026-11-21",
-   "score": 48,
-   "new": false
-  },
-  {
    "id": "c570dd23205a",
    "title": "Operations Sr Workforce Planner, Prime Video Shared Services",
    "company": "Amazon.com",
@@ -2400,6 +2514,7 @@
     "indeed"
    ],
    "posted": "2026-11-18",
+   "exp": "3+ yrs",
    "remote": false,
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-21",
@@ -2519,6 +2634,7 @@
     "naukri"
    ],
    "posted": "2026-11-14",
+   "exp": "5-10 yrs",
    "remote": false,
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-21",
@@ -2536,9 +2652,10 @@
     "linkedin"
    ],
    "posted": "2026-11-14",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "score": 45,
    "new": false
   },
@@ -2551,9 +2668,11 @@
    "source": "linkedin",
    "sources": [
     "linkedin",
-    "indeed"
+    "indeed",
+    "glassdoor"
    ],
    "posted": "2026-11-16",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-21",
@@ -2571,6 +2690,7 @@
     "linkedin"
    ],
    "posted": "2026-11-17",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-17",
    "last_seen": "2026-11-21",
@@ -3030,6 +3150,7 @@
     "linkedin"
    ],
    "posted": "2026-11-12",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-13",
    "last_seen": "2026-11-21",
@@ -3047,6 +3168,7 @@
     "linkedin"
    ],
    "posted": "2026-11-12",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-21",
@@ -3081,8 +3203,29 @@
     "linkedin"
    ],
    "posted": "2026-11-13",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-10-30",
+   "last_seen": "2026-11-21",
+   "score": 40,
+   "new": false
+  },
+  {
+   "id": "a02c20754175",
+   "title": "Supply Chain Integrated Business Planning",
+   "company": "HP",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://www.linkedin.com/jobs/view/4490749381",
+   "source": "linkedin",
+   "sources": [
+    "linkedin",
+    "indeed",
+    "glassdoor"
+   ],
+   "posted": "2026-11-13",
+   "exp": "",
+   "remote": false,
+   "first_seen": "2026-11-14",
    "last_seen": "2026-11-21",
    "score": 40,
    "new": false
@@ -3098,6 +3241,7 @@
     "linkedin"
    ],
    "posted": "2026-11-13",
+   "exp": "",
    "remote": false,
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-21",
@@ -3205,23 +3349,6 @@
    "last_seen": "2026-11-20",
    "score": 40,
    "new": false
-  },
-  {
-   "id": "40f73cec6ef4",
-   "title": "Lead Data Scientist – Demand Forecasting & Optimization",
-   "company": "SymphonyAI",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=24ba9d7e29ecba5f",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-11-12",
-   "remote": false,
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "score": 33,
-   "new": true
   },
   {
    "id": "95b1df45f640",
@@ -3503,9 +3630,11 @@
    "url": "https://in.indeed.com/viewjob?jk=431b679ae67f01b8",
    "source": "indeed",
    "sources": [
-    "indeed"
+    "indeed",
+    "glassdoor"
    ],
    "posted": "2026-11-18",
+   "exp": "1-3 yrs",
    "remote": false,
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-21",
@@ -4176,23 +4305,6 @@
    "new": false
   },
   {
-   "id": "a1f1a209b29c",
-   "title": "SAP IBP Consultant (Demand & Supply Planning)",
-   "company": "Sainik Zone",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=7f67d1a6c0101c84",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-11-12",
-   "remote": false,
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-19",
-   "score": 33,
-   "new": false
-  },
-  {
    "id": "fb7dcb7134e3",
    "title": "Financial Planning Analyst - FPNA / FP&A",
    "company": "Demographic Hr Services",
@@ -4274,23 +4386,6 @@
    "remote": false,
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
-   "score": 30,
-   "new": false
-  },
-  {
-   "id": "a02c20754175",
-   "title": "Supply Chain Integrated Business Planning",
-   "company": "HP",
-   "location": "KA, India",
-   "url": "https://in.indeed.com/viewjob?jk=76edb5f950c5faeb",
-   "source": "indeed",
-   "sources": [
-    "indeed"
-   ],
-   "posted": "2026-11-15",
-   "remote": false,
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-21",
    "score": 30,
    "new": false
   },
