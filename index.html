@@ -129,6 +129,7 @@ function render(){
     var d = daysAgo(j); m.appendChild(document.createTextNode(j.posted ? (d === 0 ? "posted today" : d + "d ago") : "first seen " + (d === 0 ? "today" : d + "d ago")));
     b.appendChild(m);
     var tg = el("div", "m"); (j.sources || [j.source]).forEach(function(s){ tg.appendChild(el("span", "tag", s)); });
+    if (j.exp) tg.appendChild(el("span", "tag", "exp " + j.exp));
     if (isRemote(j)) tg.appendChild(el("span", "tag", "remote"));
     b.appendChild(tg); c.appendChild(b);
     var x = el("button", "x", "✕"); x.title = "Hide this job";
